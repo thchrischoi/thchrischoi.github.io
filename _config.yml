@@ -96,12 +96,12 @@ author:
   name             : "Christopher Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A GIS and project portfolio."
-  location         : "Boston"
-  email            :
+  location         : "Berkeley, California"
+  email            : "thchrischoi@berkeley.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "thchrischoi@berkeley.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
