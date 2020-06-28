@@ -13,7 +13,7 @@ header:
 
 Here's some basic text.
 
-And here's some * italics*
+And here's some *italics*
 
 Here's some **bold** text.
 
