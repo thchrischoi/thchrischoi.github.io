@@ -45,9 +45,7 @@ Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/Avatar.jpg)
 
 {{< rawhtml >}}
-  <p class="speshal-fancy-custom">
-    <object data="{{C:/Users/chris/Desktop/thchrischoi.github.io/images/ChoiChristopher_Resume.pdf}}" width="1000" height="1000" type='application/pdf'/>
-  </p>
+  <a href="/images/ChoiChristopher_Resume.pdf" download>
 {{< /rawhtml >}}
 
 
