@@ -6,7 +6,7 @@ header:
   image: "/images/BG_Home.png"
 
 ---
-Download full resume [here](/images/ChoiChristopher.pdf).
+Download PDF version [here](<a href="/images/myw3schoolsimage.jpg" download>).
 
 # Education
 ### University of California, Berkeley
