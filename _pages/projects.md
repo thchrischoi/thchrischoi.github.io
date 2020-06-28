@@ -3,6 +3,6 @@ layout: archives
 permalink: /projects/
 title: "Projects"
 header:
-  image: "/images/HongKongPaperTerrainMap.jpg"
+  image: "/images/BG_Home.png"
 
 ---
