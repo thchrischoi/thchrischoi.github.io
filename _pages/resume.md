@@ -11,6 +11,7 @@ header:
 *Aug 2018 - May 2020*
 * B.A. in Physical Geograpahy, Minor in Geospatial Information Science and Technologies
 * *GPA: 3.6*
+
 ### El Camino College
 *Jan 2016 - May 2018*
 * Associates in Arts: Biology & Physical Science, With Honors
