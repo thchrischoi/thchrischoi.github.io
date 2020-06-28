@@ -6,7 +6,7 @@ header:
   image: "/images/BG_Home.png"
 
 ---
-Download PDF version [here](<a href="/images/myw3schoolsimage.jpg" download>).
+[Click here for a standard view.](<a href="/resume/Standard_View>).
 
 # Education
 ### University of California, Berkeley
@@ -58,6 +58,7 @@ Download PDF version [here](<a href="/images/myw3schoolsimage.jpg" download>).
 * Designed and led activities that involved active and creative learning
 
 
-
+# Standard View
+<img src="{{ site.url }}{{ site.baseurl }}/images/ChoiChristopher_Resume.png" alt="">
 
 ---
