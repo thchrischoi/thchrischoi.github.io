@@ -8,7 +8,7 @@ header:
 ---
 [Click here for a standard view.](<a href="/resume/#standard-view>).
 
-# Education
+## Education
 ### University of California, Berkeley
 *Aug 2018 - May 2020*
 * B.A. in Physical Geograpahy, Minor in Geospatial Information Science and Technologies
@@ -29,7 +29,7 @@ header:
 * Cartographic Representation *(UC Berkeley - Fall 2018)*
 * Introduction to GIS *(El Camino College - Spring 2018)*
 
-# Professional Experience
+## Professional Experience
 ### UC Berkeley Environmental Science, Policy, Management Department
 **Mapping Assistant**
 *Berkeley, CA. Sep - Dec 2019*
@@ -53,12 +53,18 @@ header:
 
 ### Hong Kong Playground Association
 **Teaching Assistant**
-*Hong Kong, Jun - July 2015*
+*Hong Kong. Jun - July 2015*
 * Taught daily English classes to classes of 20+ secondary school students
 * Designed and led activities that involved active and creative learning
 
+## Extracurriculars / Leadership activities
+### UC Berkeley Cal day
+**Ambassador for the Geography Department**
+*Berkeley, CA. Feb 2019*
+* Spoke to 300+ visiting high school students to provide information and details regarding the geography major at UC Berkeley. Explained the importance of multidisciplinary learning and the main learning objectives in geography
+
 ---
-# Standard View
+## Standard View
 <img src="{{ site.url }}{{ site.baseurl }}/images/ChoiChristopher_Resume.png" alt="">
 
 ---
