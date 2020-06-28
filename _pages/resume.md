@@ -6,7 +6,7 @@ header:
   image: "/images/BG_Home.png"
 
 ---
-[Click here for a standard view.](<a href="/resume/#standard-view>).
+[Click here for a standard view.](<a href="https://thchrischoi.github.io/resume/#standard-view">).
 
 ## Education
 ### University of California, Berkeley
