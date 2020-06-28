@@ -45,12 +45,10 @@ Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/Avatar.jpg)
 
 {{< rawhtml >}}
-<body>
-<h1>
-howdy
-</h1>
-  <a href="/images/ChoiChristopher_Resume.pdf" download>
-</body>
+  <p class="speshal-fancy-custom">
+    This is <strong>raw HTML</strong>, inside Markdown.
+    La di da di da
+  </p>
 {{< /rawhtml >}}
 
 
