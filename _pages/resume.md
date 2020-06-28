@@ -8,6 +8,13 @@ header:
 ---
 [Click here for a standard view.](<a href="https://thchrischoi.github.io/resume/#standard-view">).
 
+{{< rawhtml >}}
+  <p class="speshal-fancy-custom">
+    <a href= https://thchrischoi.github.io/resume/#standard-view><img src=https://www.thesamba.com/vw/images/logo/thesambalogo_blue.gif <id="imagelink">
+  </p>
+  <a href="https://thchrischoi.github.io/resume/#standard-view">Click here for a standard view.</a>
+{{< /rawhtml >}}
+
 ## Education
 ### University of California, Berkeley
 *Aug 2018 - May 2020*
