@@ -7,12 +7,10 @@ header:
 ---
 
 ## Education
----
 ### University of California, Berkeley
 *Aug 2018 - May 2020*
 * B.A. in Physical Geograpahy, Minor in Geospatial Information Science and Technologies
 * *GPA: 3.6*
-
 ### El Camino College
 *Jan 2016 - May 2018*
 * Associates in Arts: Biology & Physical Science, With Honors
@@ -21,8 +19,10 @@ header:
 * *GPA: 4.0*
 
 ## Relevant Courses
----
-* Photogrammetry and Remote Sensing (UC Berkeley - Spring 2020)
-* Field Methods for Physical Geography (UC Berkeley - Spring 2020)
-
+* Photogrammetry and Remote Sensing *(UC Berkeley - Spring 2020)*
+* Field Methods for Physical Geography *(UC Berkeley - Spring 2020)*
+* Geographic Information Systems *(UC Berkeley - Fall 2019)*
+* Field Geology and Digital Mapping *(UC Berkeley - Spring 2019)*
+* Cartographic Representation *(UC Berkeley - Fall 2018)*
+* Introduction to GIS *(El Camino College - Spring 2018)*
 ---
