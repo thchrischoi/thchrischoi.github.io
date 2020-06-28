@@ -38,6 +38,10 @@ Python code block:
 '''
 
 images
+HTML:
+<img src="{{ site.url }}{{ site.baseurl }}/images/Avatar.jpg" alt="">
 
+Kramdown:
+![alt]({{ site.url }}{{ site.baseurl }}/images/Avatar.jpg)
 
 ---
