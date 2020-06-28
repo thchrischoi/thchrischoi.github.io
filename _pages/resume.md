@@ -5,9 +5,7 @@ header:
   image: "/images/BG_Home.png"
 
 ---
-Download full resume [here]()
-
-HTML:
+Download full resume [here](/images/ChoiChristopher.pdf)
 <img src="{{ site.url }}{{ site.baseurl }}/images/ChoiChristopher_Resume.png" alt="">
 
 # Education
