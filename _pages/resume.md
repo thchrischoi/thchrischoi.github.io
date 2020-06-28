@@ -12,9 +12,9 @@ EDUCATION
 <h2>
 University of California, Berkeley						 	             Aug 2018 – May 2020
 </h2>
-<h1>
+<h3>
 B.A. in Physical Geography, Minor in Geospatial Information Science and Technologies   	    	                               GPA: 3.6
-<h1>
+<h3>
 El Camino College 								               	Jan 2016 – May 2018
 •	Associates in Arts: Biology & Physical Science, With Honors					     GPA: 4.0
 •	Associates in Science: Geography, With Honors
