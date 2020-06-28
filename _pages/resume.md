@@ -6,7 +6,7 @@ header:
 
 ---
 ---
-###H3 Education
+### H3 Education
 
 **University of California, Berkeley** Aug 2018 - May 2020
 * B.A. in Physical Geograpahy, Minor in Geospatial Information Science and Technologies
@@ -18,7 +18,8 @@ header:
 * Awards: Dean's List, Geography Merit Award
 * *GPA: 4.0*
 
-###H3 Relevant Courses
+### H3 Relevant Courses
 * Photogrammetry and Remote Sensing (UC Berkeley - Spring 2020)
-* Field Methods for Physical Geograpahy (UC Berkeley - Spring 2020)
+* Field Methods for Physical Geography (UC Berkeley - Spring 2020)
+
 ---
