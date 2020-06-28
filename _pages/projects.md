@@ -3,7 +3,7 @@ layout: archives
 permalink: /projects/
 title: "Projects"
 header:
-  image: #"/images/___.jpg"
+  image: "/images/HongKongPaperTerrainMap.jpg"
 
 ---
 
