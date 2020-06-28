@@ -6,7 +6,7 @@ header:
   image: "/images/BG_Home.png"
 
 ---
-[Click here for a standard view.](<a href="/resume/Standard_View>).
+[Click here for a standard view.](<a href="/resume/#standard-view>).
 
 # Education
 ### University of California, Berkeley
@@ -57,7 +57,7 @@ header:
 * Taught daily English classes to classes of 20+ secondary school students
 * Designed and led activities that involved active and creative learning
 
-
+---
 # Standard View
 <img src="{{ site.url }}{{ site.baseurl }}/images/ChoiChristopher_Resume.png" alt="">
 
