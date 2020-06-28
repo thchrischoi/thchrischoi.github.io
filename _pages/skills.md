@@ -44,8 +44,11 @@ HTML:
 Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/Avatar.jpg)
 
-PDF embed
-<object data="{{ /images/ChoiChristopher_Resume.pdf }}" width="1000" height="1000" type='application/pdf'/>
+{{< rawhtml >}}
+  <p class="speshal-fancy-custom">
+    This is <strong>raw HTML</strong>, inside Markdown.
+  </p>
+{{< /rawhtml >}}
 
 
 ---
