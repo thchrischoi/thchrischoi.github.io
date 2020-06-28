@@ -5,8 +5,12 @@ header:
   image: "/images/BG_Home.png"
 
 ---
+Download full resume [here]()
 
-## Education
+HTML:
+<img src="{{ site.url }}{{ site.baseurl }}/images/ChoiChristopher_Resume.png" alt="">
+
+# Education
 ### University of California, Berkeley
 *Aug 2018 - May 2020*
 * B.A. in Physical Geograpahy, Minor in Geospatial Information Science and Technologies
@@ -27,7 +31,7 @@ header:
 * Cartographic Representation *(UC Berkeley - Fall 2018)*
 * Introduction to GIS *(El Camino College - Spring 2018)*
 
-## Professional Experience
+# Professional Experience
 ### UC Berkeley Environmental Science, Policy, Management Department
 **Mapping Assistant**
 *Berkeley, CA. Sep - Dec 2019*
