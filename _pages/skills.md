@@ -46,7 +46,7 @@ Kramdown:
 
 {{< rawhtml >}}
   <p class="speshal-fancy-custom">
-    This is <strong>raw HTML</strong>, inside Markdown.
+    <object data="{{C:/Users/chris/Desktop/thchrischoi.github.io/images/ChoiChristopher_Resume.pdf}}" width="1000" height="1000" type='application/pdf'/>
   </p>
 {{< /rawhtml >}}
 
