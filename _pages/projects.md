@@ -8,6 +8,5 @@ header:
 <img src="{{ site.url }}{{ site.baseurl }}/images/main.png" alt="">
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/main.png)
-
 [Effects of Sea Level Rise on Salt Marsh Vegetative Zones in Morro Bay](/projects/project_saltmarsh)
 ---
