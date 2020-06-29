@@ -6,9 +6,10 @@ header:
 
 ---
 {{< rawhtml >}}
- <a href= https://thchrischoi.github.io/_pages/projects/project_saltmarsh ><img src= https://thchrischoi.github.io/images/project_morrobay/main.png <id="imagelink">
 
-""
+ <a href= https://thchrischoi.github.io/_pages/projects/project_saltmarsh ><img src= https://thchrischoi.github.io/images/project_morrobay/main.png <id="imagelink">
+</a>
+
 {{< /rawhtml >}}
 
 [Effects of Sea Level Rise on Salt Marsh Vegetative Zones in Morro Bay](/projects/project_saltmarsh)
