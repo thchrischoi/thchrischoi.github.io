@@ -8,6 +8,7 @@ header:
 ---
 *Jan 2020 - May 2020*
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/project_foodinaccessibility/heading.PNG" alt="">
 <img src="{{ site.url }}{{ site.baseurl }}/images/project_foodinaccessibility/introductionandmethod.PNG" alt="">
 <img src="{{ site.url }}{{ site.baseurl }}/images/project_foodinaccessibility/suitabilityanalysis.PNG" alt="">
 <img src="{{ site.url }}{{ site.baseurl }}/images/project_foodinaccessibility/networkanalysis.PNG" alt="">
