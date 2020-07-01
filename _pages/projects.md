@@ -6,7 +6,7 @@ header:
 
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Avatar.jpg" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/main.png" alt="">
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/main.png" alt="">
 
