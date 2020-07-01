@@ -6,7 +6,10 @@ header:
 
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/project_morrobay/main.PNG" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/main.PNG" alt="">
+
+![alt]({{ site.url }}{{ site.baseurl }}/images/main.png)
+
 [Effects of Sea Level Rise on Salt Marsh Vegetative Zones in Morro Bay](/projects/project_saltmarsh)
 *Jan - May 2020*
 ---
