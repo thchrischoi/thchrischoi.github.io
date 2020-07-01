@@ -6,9 +6,7 @@ header:
 
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/main.png" alt="">
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/main.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/main.PNG" alt="">
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/main.png)
 
