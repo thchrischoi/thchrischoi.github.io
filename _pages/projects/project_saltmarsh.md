@@ -28,8 +28,8 @@ Topographic analysis indicated that the increase in the bay's elevational gradie
 
 
 <figure>
-    <a href="/images/SaltMarshStudyArea.png"><img src="/images/SaltMarshStudyArea.png"></a>
-    <figcaption> Morro Bay salt marsh study area. Vegetation analysis was conducted in the salt marshes within the red hexed area (12.98km^2). The yellow hexed transect was used to interpolate the effects of SLR (2000m x 600m, 1.2km^2).
+    <a href="/images/SaltMarshStudyArea.png"><img src="/images/project_morrobay/SaltMarshDEM.png"></a>
+    <figcaption> DEM generated from LIDAR data for topographic and elevational analysis.
 
 Since, LANDSAT-8 imagery was at 30m horizontal resolution, a grid of sampling points spaced at 30m distance, horizontally and vertically, to each other were used to sample LANDSAT-8 images
 ---
