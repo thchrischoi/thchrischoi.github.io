@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 permalink: /projects/
+classes: single
 header:
   image: "/images/BG_Home.png"
 
