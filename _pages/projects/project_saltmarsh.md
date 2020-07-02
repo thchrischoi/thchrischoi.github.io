@@ -24,6 +24,6 @@ Topographic analysis indicated that the increase in the bay's elevational gradie
 
 ---
 <figure>
-    <a href="/images/SaltMarshStudyArea.png"><img src="/images/SaltMarshStudyArea.png"></a>
+    <a href="/images/SaltMarshStudyArea.png"><img src="/images/SaltMarshStudyArea.PNG"></a>
     <figcaption> Morro Bay salt marsh study area. Vegetation analysis was conducted in the salt marshes within the red hexed area (12.98km^2). The yellow hexed transect was used to interpolate the effects of SLR (2000m x 600m, 1.2km^2).
 ---
