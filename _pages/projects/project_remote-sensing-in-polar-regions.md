@@ -1,11 +1,11 @@
 ---
-title: "Remote Sensing in Polar Regions - Literary Review"
+title: "Remote Sensing in Polar Regions - Literature Review"
 classes: wide
 permalink: /projects/project_remote-sensing-in-polar-regions/
 header:
   image: "/images/BG_Home.png"
 ---
-Christopher Choi, Claire Bachard, Nick Brown
+Authors: Christopher Choi, Claire Bachard, Nick Brown
 
 
 ### Introduction
@@ -13,6 +13,8 @@ Christopher Choi, Claire Bachard, Nick Brown
 Since satellite monitoring of polar ice began in the 1970s, consistent declines in minimum summer sea ice extent, and increased glacial retreat has been observed (Meiner et al. 2007).Arctic sea ice has declined at a rate of 12.9% per decade between 1979 and 2018. Sea ice older than 5 years has also reduced by 90% in the same time (He et al. 2019). These observations are primarily driven by the effects of the atmosphere’s increase in greenhouse gas concentrations, which have led to a doubling of arctic temperatures within the last two decades (He et al. 2019). Further exacerbation of the observed changes in the polar environment due to a decreased albedo occuring when melted glacial ice and reduced sea ice exposes darker bedrock and water bodies, respectively (Naegeli et al. 2017, Curry et al. 1995).
 
 The extent of the effects of warming polar regions are felt worldwide. Ice melt leading to sea level rise threatens low elevation communities like Venice, Bangladesh, Southern Vietnam, is predicted to increase by much as 2 meters by the year 2100 (Lindsey 2019). Permafrost serves a crucial role in our environment as a methane sink, which is the second largest contributor of greenhouse gases. Widespread disappearance of near-surface Arctic permafrost is also predicted to occur by the end of the century (He et al. 2019), which is already releasing over 17 million tonnes of methane per year, in the Siberian Arctic alone (Shakhova et al. 2007).
+
+
 
 ### Surface Temperature
 
@@ -36,7 +38,8 @@ In mountainous areas, land surface and thermal inertia measurements derived from
 ### Conclusion
 
 Since climate change has the potential to drastically alter Earth’s climate, the planet’s ecosystems and human communities, it is essential that scientists can accurately predict how Earth’s climate will change and the effects that these changes will have across the globe so that policy makers can act accordingly. One key aspect to making these predictions is understanding the hydrologic cycle, as water plays an important role in determining how the climate will change and also how ecosystems will respond. As discussed in this report, remote sensing can be used to better understand how ice (a major component of the hydrologic cycle) is responding to climate change, which can in turn be used to develop improved climate and ecosystem models from which more accurate predictions can be made.
-Works Cited
+
+
 
 ---
 Works Cited:
