@@ -29,13 +29,13 @@ b
 
 c
 <figure>
-    <a href="/images/SaltMarshStudyArea.png"><img src="/image/SaltMarshStudyArea.jpg"></a>
+    <a href="/images/SaltMarshStudyArea.png"><img src="/image/SaltMarshStudyArea.png"></a>
     <figcaption> Morro Bay salt marsh study area. Vegetation analysis was conducted in the salt marshes within the red hexed area (12.98km^2). The yellow hexed transect was used to interpolate the effects of SLR (2000m x 600m, 1.2km^2).
 
 
 d
 <figure>
-    <a href="/images/SaltMarshStudyArea.png"><img src="/images/project_morrobay/SaltMarshDEM.png"></a>
+    <a href="/images/project_morrobay/SaltMarshDEM.png"><img src="/images/project_morrobay/SaltMarshDEM.png"></a>
     <figcaption> DEM generated from LIDAR data for topographic and elevational analysis.
 
 
