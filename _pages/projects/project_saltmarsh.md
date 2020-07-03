@@ -25,7 +25,7 @@ a
 <img src="{{ site.url }}{{ site.baseurl }}/images/project_saltmarsh/SaltMarshStudyArea.png" alt="">
 
 b
-<img src="{{ site.url }}{{ site.baseurl }}/images/project_foodinaccessibility/SaltMarshStudyArea.jpg" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/project_saltmarsh/SaltMarshStudyArea.jpg" alt="">
 
 c
 <figure>
