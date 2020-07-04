@@ -24,5 +24,5 @@ header:
 
 
 ---
-**[Arrests and Effects of Tear Gas Use in Hong Kong Protests](/projects/project_hongkongprotests)** *Dec 2019*
+**[Arrests and Effects of Tear Gas Use in Hong Kong Protests](/projects/project_arrests-and-effects-of-tear-gas-use-in-hong-kong-protests)** *Dec 2019*
 <img src="{{ site.url }}{{ site.baseurl }}/images/project_arrests-and-effects-of-tear-gas-use-in-hong-kong-protests/main.PNG" alt="">
