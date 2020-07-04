@@ -1,7 +1,7 @@
 ---
 title: "The Effects of Sea Level Rise on Vegetative Zones in Morro Bay, California"
 classes: single
-permalink: /projects/project_saltmarsh/
+permalink: /projects/project_morrobay/
 header:
   image: "/images/BG_Home.png"
 
@@ -22,7 +22,7 @@ LIDAR data was utilized to determine the topography and elevation of the primary
 Topographic analysis indicated that the increase in the bay's elevational gradient was exponential. It was also found that there was a small, but positive correlation between NDVI and SAVI values and elevation points indicating that the high marsh at Morro Bay was on average more productive.
 
 a
-<img src="{{ site.url }}{{ site.baseurl }}/images/project_saltmarsh/SaltMarshStudyArea.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/project_morrobay/SaltMarshStudyArea.png" alt="">
 
 b
 <img src="{{ site.url }}{{ site.baseurl }}/images/project_saltmarsh/SaltMarshStudyArea.jpg" alt="">
@@ -38,6 +38,6 @@ d
     <a href="/images/project_morrobay/SaltMarshDEM.png"><img src="/images/project_morrobay/SaltMarshDEM.png"></a>
     <figcaption> DEM generated from LIDAR data for topographic and elevational analysis.
 
-
+---
 Since, LANDSAT-8 imagery was at 30m horizontal resolution, a grid of sampling points spaced at 30m distance, horizontally and vertically, to each other were used to sample LANDSAT-8 images
 ---
