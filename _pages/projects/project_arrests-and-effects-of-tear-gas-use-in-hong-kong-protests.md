@@ -1,6 +1,6 @@
 title: "Arrests and Effects of Tear Gas Use in Hong Kong Protests"
 classes: single
-permalink: /projects/project_arrests-and-effects-of-tear-gas-use-in-hong-kong-protests/
+permalink: /projects\project_arrests-and-effects-of-tear-gas-use-in-hong-kong-protests/
 header:
   image: "/images/BG_Home.png"
 
