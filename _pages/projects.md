@@ -19,8 +19,10 @@ header:
 
 
 ---
-**[Food Inaccessibility in Oakland, CA](/projects/project_food-inaccessibility.md)** *Aug - Dec 2020*
+**[Food Inaccessibility in Oakland, CA](/projects/project_food-inaccessibility.md)** *Aug - Dec 2019*
 <img src="{{ site.url }}{{ site.baseurl }}/images/project_foodinaccessibility/main.PNG" alt="">
 
 
 ---
+**[Arrests and Effects of Tear Gas Use in Hong Kong Protests](/projects/project_hongkongprotests)** *Dec 2019*
+<img src="{{ site.url }}{{ site.baseurl }}/images/project_arrests-and-effects-of-tear-gas-use-in-hong-kong-protests/main.PNG" alt="">
