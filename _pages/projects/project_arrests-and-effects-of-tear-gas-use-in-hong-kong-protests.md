@@ -29,6 +29,7 @@ From the map we can see the largest number of arrests occured at Polytechnic Uni
 
 
 ### Map II - Hours of Severe AQHI Levels between June and November
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/project_arrests-and-effects-of-tear-gas-use-in-hong-kong-protests/AQHI.jpg" alt="image-center" class="align-center">
 
 Since the start of the protests, the police have fired up to 10,000 canisters of tear gas. Other than the immediate raspatory burning and eye irritant effects of teargas, one of the concerns of so much tear gas being fired is the long-term effects to those exposed. Since most of the protesting has been mobile in a city with one the highest population densities in the world, up to 88% of Hong Kong's population has been exposed to the teargas. Another component in the abundant usage of tear gas is the break down of chemicals in the tear gas into Dioxin, a highly toxic chemical that can have a half life in the human of up to 50 years.
@@ -41,10 +42,12 @@ From what we can see in Map II, there is a far higher number of instances in whi
 
 
 ### Conclusion
+
 Over the last 6 months, Hong Kong's weekly battleground between protestors and the police have begun to show what some of the long term effects of this protest has led to. The incarceration of a high number of young adults, mainly comprised of university students, and the degrading of air quality are only some of the other many results of this conflict. The inability of the Hong Kong governement to correctly address the societal issues, such as considerable worsening economic disparity, with a growing low-income section of society not benefiting from the economic growth of the city, has led to tand fueled these protests. Moving forward, even if the protests die down, without addressing these societal issues, it would be reasonable to assume that protests are likely to erupt again, like the current protests, which are considered to be in tandem of the Umbrella Revolution in 2014.
 
 
 ### Appendix
+
 ---
 {{< rawhtml >}}
 <table>
@@ -275,7 +278,10 @@ Over the last 6 months, Hong Kong's weekly battleground between protestors and t
 
 ---
 ---
-*Sources:
+
+
+### Sources:
+
 * Martin Purbrick (2019) A REPORT OF THE 2019 HONG KONG PROTESTS,
 Asian Affairs, 50:4, 465-487, DOI: 10.1080/03068374.2019.1672397
 * https://www.hongkongwatch.org/protest-prosecution
