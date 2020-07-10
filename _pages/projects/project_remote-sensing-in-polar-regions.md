@@ -5,6 +5,7 @@ permalink: /projects/project_remote-sensing-in-polar-regions/
 header:
   image: "/images/BG_Home.png"
 ---
+*May 2020*
 Authors: Christopher Choi, Claire Bachard, Nick Brown
 
 
