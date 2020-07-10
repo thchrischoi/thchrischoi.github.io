@@ -6,7 +6,7 @@ header:
   image: "/images/BG_Home.png"
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}https://live.staticflickr.com/65535/49245810247_fbd6168897_k.jpg" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/project_arrests-and-effects-of-tear-gas-use-in-hong-kong-protests/banner.jpg" alt="">
 
 *Dec 2019*
 
