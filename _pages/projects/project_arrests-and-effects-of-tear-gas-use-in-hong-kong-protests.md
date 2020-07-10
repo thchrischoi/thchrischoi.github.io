@@ -43,6 +43,7 @@ From what we can see in Map II, there is a far higher number of instances in whi
 Over the last 6 months, Hong Kong's weekly battleground between protestors and the police have begun to show what some of the long term effects of this protest has led to. The incarceration of a high number of young adults, mainly comprised of university students, and the degrading of air quality are only some of the other many results of this conflict. The inability of the Hong Kong governement to correctly address the societal issues, such as considerable worsening economic disparity, with a growing low-income section of society not benefiting from the economic growth of the city, has led to tand fueled these protests. Moving forward, even if the protests die down, without addressing these societal issues, it would be reasonable to assume that protests are likely to erupt again, like the current protests, which are considered to be in tandem of the Umbrella Revolution in 2014.
 
 ### Appendix
+---
 {{< rawhtml >}}
 <table>
 		<tr>
@@ -268,7 +269,7 @@ Over the last 6 months, Hong Kong's weekly battleground between protestors and t
 	</table>
 {{< /rawhtml >}}
 
-
+---
 ---
 *Sources:
 * Martin Purbrick (2019) A REPORT OF THE 2019 HONG KONG PROTESTS,
