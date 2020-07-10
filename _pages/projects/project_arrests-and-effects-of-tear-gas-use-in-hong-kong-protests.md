@@ -19,7 +19,7 @@ The police responded to the protests, the majority of which were peaceful, with 
 
 ### Map I - Locations of Protest Related Arrests
 
-<INSERT MAPBOX MAP>
+
 
 The above map (Map I) shows the recorded locations of 2163, of 5890 arrests (as of Nov 29th). The data was sourced from the "Hong Kong Watch - Protest Prosecution Database". Due to the lack of transparency regarding the details of the arrests by the Hong Kong Police, I was not able to locate all the arrests that have occured in the last 6 months.
 
