@@ -43,7 +43,7 @@ Since climate change has the potential to drastically alter Earth’s climate, t
 
 
 ---
-Works Cited:
+*Works Cited:
 
 - Brenning, A., Pena, M. A., Long, S. & Soliman, A. (2012). Thermal remote sensing of ice-debris landforms using ASTER: an example from the Chilean Andes. The Cryosphere, 6, 367-382, doi:10.5194/tc-6-367-2012
 - Chylek, P., Folland, C. K., Lesins, G., & Dubey, M. K. (2010). Twentieth century bipolar seesaw of the Arctic and Antarctic surface air temperatures. Geophysical Research Letters, 37(8). doi: 10.1029/2010gl042793
@@ -69,4 +69,4 @@ Data.GISS: GISS Surface Temperature Analysis (GISTEMP v4).  NASA Goddard Institu
 - Raynolds, M., Comiso, J., Walker, D., & Verbyla, D. (2008). Relationship between satellite-derived land surface temperatures, arctic vegetation types, and NDVI. Remote Sensing of Environment, 112(4), 1884–1894. doi: 10.1016/j.rse.2007.09.008.
 - Shakhova, N. and Semiletov, I. (2007). Methane release and coastal environment in the East Siberian Arctic shelf. Journal of Marine Systems, 66(1-4), pp.227-243.
 - Surdyk, S. (2002). Using microwave brightness temperature to detect short-term surface air temperature changes in Antarctica: An analytical approach. Remote Sensing of Environment, 80(2), 256–271. doi: 10.1016/s0034-4257(01)00308-x
-Westermann, S., Duguay, C. R., Grosse, G. & Kaab, A. (2015).  Remote sensing of permafrost and frozen ground. Remote Sensing of the Cryosphere, pp. 307-344.
+Westermann, S., Duguay, C. R., Grosse, G. & Kaab, A. (2015).  Remote sensing of permafrost and frozen ground. Remote Sensing of the Cryosphere, pp. 307-344.*
