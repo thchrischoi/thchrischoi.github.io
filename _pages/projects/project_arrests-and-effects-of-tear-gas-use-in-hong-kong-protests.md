@@ -6,7 +6,7 @@ header:
   image: "/images/BG_Home.png"
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/project_arrests-and-effects-of-tear-gas-use-in-hong-kong-protests/banner.jpg" alt="image-center">
+<img src="{{ site.url }}{{ site.baseurl }}/images/project_arrests-and-effects-of-tear-gas-use-in-hong-kong-protests/banner.jpg" alt="">
 
 *Dec 2019*
 
@@ -29,7 +29,7 @@ From the map we can see the largest number of arrests occured at Polytechnic Uni
 
 
 ### Map II - Hours of Severe AQHI Levels between June and November
-<img src="{{ site.url }}{{ site.baseurl }}/images/project_arrests-and-effects-of-tear-gas-use-in-hong-kong-protests/AQHI.jpg" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/project_arrests-and-effects-of-tear-gas-use-in-hong-kong-protests/AQHI.jpg" alt="image-center" class="align-center">
 
 Since the start of the protests, the police have fired up to 10,000 canisters of tear gas. Other than the immediate raspatory burning and eye irritant effects of teargas, one of the concerns of so much tear gas being fired is the long-term effects to those exposed. Since most of the protesting has been mobile in a city with one the highest population densities in the world, up to 88% of Hong Kong's population has been exposed to the teargas. Another component in the abundant usage of tear gas is the break down of chemicals in the tear gas into Dioxin, a highly toxic chemical that can have a half life in the human of up to 50 years.
 
