@@ -37,10 +37,12 @@ The map above (Map II) displays the number of hours different districts in Hong 
 
 The map was aggregates monthly data from the AQHI (Air Quality Health Index) provided by the Hong Kong Environmental Protection Department for the months in question. The data was first compiled into a csv by hours of severe AQHI levels per district per month. In ArcMap, I "Tabular Joined" the csv to a Hong Kong Voting Districts shapefile, provided by the data.gov.hk website. The map was then displayed using graduated colours at equal intervals by the hours of severe AQHI levels. Exported as an image, the map was uploaded onto flickr and embedded onto this webpage as a link.
 
-From what we can see in Map II, there is a far higher number of instances in which Severe air was observed. In 2018, the total number of hours between Jun and Nov of Severe air quality was 92 hours. During the same time, in 2019, with the protests occuring, the number of hours shot up to 310.
+From what we can see in Map II, there is a far higher number of instances in which Severe air was observed. In 2018, the total number of hours between Jun and Nov of Severe air quality was 92 hours. During the same time, in 2019, with the protests occurring, the number of hours shot up to 310.
+
 
 ### Conclusion
 Over the last 6 months, Hong Kong's weekly battleground between protestors and the police have begun to show what some of the long term effects of this protest has led to. The incarceration of a high number of young adults, mainly comprised of university students, and the degrading of air quality are only some of the other many results of this conflict. The inability of the Hong Kong governement to correctly address the societal issues, such as considerable worsening economic disparity, with a growing low-income section of society not benefiting from the economic growth of the city, has led to tand fueled these protests. Moving forward, even if the protests die down, without addressing these societal issues, it would be reasonable to assume that protests are likely to erupt again, like the current protests, which are considered to be in tandem of the Umbrella Revolution in 2014.
+
 
 ### Appendix
 ---
@@ -268,6 +270,8 @@ Over the last 6 months, Hong Kong's weekly battleground between protestors and t
 		</tr>
 	</table>
 {{< /rawhtml >}}
+
+
 
 ---
 ---
