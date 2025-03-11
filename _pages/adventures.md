@@ -7,4 +7,4 @@ header:
 
 ---
 **[Ski Tour - Mt. Mahler and Seven Utes](/adventures/adventures_ski-tour-mt-mahler-and-seven-utes.md)** *Mar 8 2025*
-<img src="{{ site.url }}{{ site.baseurl }}/images/adventures/ski-tour-mt-mahler-and-seven-utes/cornice-accent-to-seven-utes.png.PNG" alt="">
+[![Climbing up the cornice on Seven Utes](/images/adventures/ski-tour-mt-mahler-and-seven-utes/cornice-accent-to-seven-utes.png "Climbing up the Cornice on Seven Utes")](/adventures/adventures_ski-tour-mt-mahler-and-seven-utes.md)

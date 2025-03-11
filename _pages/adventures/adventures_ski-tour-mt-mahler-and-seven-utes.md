@@ -16,9 +16,11 @@ Blue skies, no wind, and it had snowed the days leading up to today - all the in
 
 This was the first time we had been in this area so it was great to finally check it out. Our objectives of the day were to ski the south face of Mt.Mahler (we ended up skiing the west face) and to ski the Northwest Ridge line of Seven Utes from the summit.
 
-The hike in starts with a roughly 1.8mi skin in the valley between Seven Utes and Braddock, which is low angle and chill.
+The hike in starts with a roughly 1.8mi skin in the valley between Seven Utes and Braddock, which was low angle and chill.
 
 ![Getting a little lost](/images/adventures/ski-tour-mt-mahler-and-seven-utes/looking-lost.png "Getting a little lost")
-<img src="{{ site.url }}{{ site.baseurl }}/images/adventures/ski-tour-mt-mahler-and-seven-utes/looking-lost.PNG" alt="">
+_Getting a little lost_
+
 
 ![Miles hiking Mt.Mahler](/images/adventures/ski-tour-mt-mahler-and-seven-utes/miles-hiking-mt-mahler.jpg "Miles hiking Mt.Mahler")
+_Miles hiking Mt.Mahler_
