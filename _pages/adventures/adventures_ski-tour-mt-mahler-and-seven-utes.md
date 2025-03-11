@@ -10,17 +10,26 @@ header:
 
 ![Climbing up the cornice on Seven Utes](/images/adventures/ski-tour-mt-mahler-and-seven-utes/cornice-accent-to-seven-utes.png "Climbing up the Cornice on Seven Utes")
 
-### Fun Day Out
+### The Ingridients For a Great Day
 
-Blue skies, no wind, and it had snowed the days leading up to today - all the ingridents for a great day out.
+Blue skies, no wind, and it had snowed the days leading up to the tour; the stoke was high
 
 This was the first time we had been in this area so it was great to finally check it out. Our objectives of the day were to ski the south face of Mt.Mahler (we ended up skiing the west face) and to ski the Northwest Ridge line of Seven Utes from the summit.
 
-The hike in starts with a roughly 1.8mi skin in the valley between Seven Utes and Braddock, which was low angle and chill.
+The hike in starts with a roughly 1.8mi skin in the valley between Seven Utes and Braddock, which was low angle and chill. Lesson leared: stick to the left side of the river. We ended up getting a little lost following ski tracks instead of skin tracks. The climb afterwards to the saddle between Mt.Mahler and Seven Utes wasn't bad.
 
 ![Getting a little lost](/images/adventures/ski-tour-mt-mahler-and-seven-utes/looking-lost.png "Getting a little lost")
+
 _Getting a little lost_
+
+### Mt.Mahler
+We were soon climbing up the west face of Mt.Mahler. You could get a great view of Seven Utes from Mt.Mahler, which helped with our planning afterwards.
+
+![Chris hiking Mt.Mahler](/images/adventures/ski-tour-mt-mahler-and-seven-utes/chris-hiking-mt-mahler.png "Chris hiking Mt.Mahler")
+
+_Getting up Mt.Mahler with a great view of Seven Utes in the background_
 
 
 ![Miles hiking Mt.Mahler](/images/adventures/ski-tour-mt-mahler-and-seven-utes/miles-hiking-mt-mahler.jpg "Miles hiking Mt.Mahler")
+
 _Miles hiking Mt.Mahler_
