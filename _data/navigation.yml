@@ -8,6 +8,8 @@ main:
     url: /skills/
   - title: "Projects"
     url: /projects/
+  - title: "Adventures"
+    url: /adventures/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
