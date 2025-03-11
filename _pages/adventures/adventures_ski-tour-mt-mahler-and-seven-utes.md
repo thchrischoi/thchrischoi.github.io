@@ -8,6 +8,8 @@ header:
 ---
 <img src="{{ site.url }}{{ site.baseurl }}/images/adventures/ski-tour-mt-mahler-and-seven-utes/cornice-accent-to-seven-utes.PNG" alt="">
 
+![Climbing up the Cornice on Seven Utes](/images/adventures/ski-tour-mt-mahler-and-seven-utes/cornice-accent-to-seven-utes.PNG "")
+
 ### Fun Day Out
 
 Blue skies, no wind, and it had snowed the days leading up to today - all the ingridents for a great day out.
@@ -16,5 +18,6 @@ This was the first time we had been in this area so it was great to finally chec
 
 The hike in starts with a roughly 1.8mi skin in the valley between Seven Utes and Braddock, which is low angle and chill.
 
+![Getting a little lost](/images/adventures/ski-tour-mt-mahler-and-seven-utes/looking-lost.PNG "Getting a little lost")
 <img src="{{ site.url }}{{ site.baseurl }}/images/adventures/ski-tour-mt-mahler-and-seven-utes/looking-lost.PNG" alt="">
 _Getting a little lost_
