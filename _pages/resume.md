@@ -65,7 +65,7 @@ header:
 
 ---
 ## Standard View
-<iframe width="100%" height="800" src="/content/ChoiChristopher_CV_20220504.pdf">
+<embed src="/content/ChoiChristopher_CV_20220504.pdf" type="application/pdf" width="100%" height="600px">
 <img src="{{ site.url }}{{ site.baseurl }}/images/ChoiChristopher_Resume.png" alt="">
 
 ---
