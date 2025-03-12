@@ -10,24 +10,17 @@ _Mar 1 2025_
 
 ![Chris skiing Corral Couloir](/images/adventures/ski-tour-corral-couloir/chris-skiing-corral-couloir.jpeg "Chris skiing Corral Couloir")
 
-### Out of Breath
-
-Four days before the trip, I started coming down with a bad cough. Tash, my partner, tells me that I was getting bronchitis. I didn't saw a doctor, but it sure felt like bronchitis. This would become a battle between my lungs and my determination to ski this line.
-
-The prescription was to essentially spend three days in bed and praying that that'd be enough time to get back in shape.
 
 ### Get Up and Go
 
-Like Yasuo in Yukio Mishima's "The Sound of Waves", I mustered all my "get up and go" at 4am on Sunday and convinced myself that I was good to go.
-
-We started hiking from Bear Lake after picking up Calyton in Estes Park at around 7am. I soon realised that I was operating on about half a lung. The hike up to Flat Top mountain where Corral Couloir started from was slow and tortuous. I alternated between taking cough suppressants and magical yellow fever reducing pills from Japan every two hours.
+We started hiking from Bear Lake after picking up Calyton in Estes Park at around 7am. I soon realised that I was operating on about half a lung. Four days before the trip, I started coming down with a bad cough. Tash said that I probably had bronchitis. The hike up to Flat Top mountain where Corral Couloir started from was slow. I alternated between taking cough suppressants and magical yellow fever reducing pills from Japan every two hours.
 
 ![Chris Hiking Up Flat Top Mountain](/images/adventures/ski-tour-corral-couloir/chris-hiking-up-flat-top-mountain.jpeg "Chris Hiking Up Flat Top Mountain")
 
 _Hiking Up Flat Top Mountain_
 
 ### Skiing My First Couloir
-I arrived at midday, where Miles and Clayton had been waiting for my weezing ass. We transitioned and dropped in. The main thing to look out for in this couloir is the cornice that hangs out on the skier's right of the entrance. Sticking to the skier's left of the run, there are a couple of pull of points that are shielded from slides. Lower down there's another pulloff skier's right. The morning sun had warmed this south facing couloir and we found perfect corn on the way down.
+I arrived to the top of the couloir at midday, where Miles and Clayton had been waiting for my weezing ass. We transitioned and dropped in. The main thing to look out for in this couloir is the cornice that hangs out on the skier's right of the entrance. Sticking to the skier's left of the run, there are a couple of pull of points that are shielded from slides. Lower down there's another pulloff skier's right. The morning sun had warmed this south facing couloir and we found perfect corn on the way down.
 
 ![Chris skiing corral couloir](/images/adventures/ski-tour-corral-couloir/chris-skiing-corral-couloir.GIF "Chris skiing corral couloir")
 
