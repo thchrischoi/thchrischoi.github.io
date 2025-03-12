@@ -14,7 +14,7 @@ _Mar 1 2025_
 
 Four days before the trip, I started coming down with a bad cough. Tash, my partner, tells me that I was getting bronchitis. I didn't saw a doctor, but it sure felt like bronchitis. This would become a battle between my lungs and my determination to ski this line.
 
-The presciption was to essentially spend three days in bed.
+The prescription was to essentially spend three days in bed and praying that that'd be enough time to get back in shape.
 
 ### Get Up and Go
 
@@ -30,7 +30,8 @@ _Hiking Up Flat Top Mountain_
 I arrived at midday, where Miles and Clayton had been waiting for my weezing ass. We transitioned and dropped in. The main thing to look out for in this couloir is the cornice that hangs out on the skier's right of the entrance. Sticking to the skier's left of the run, there are a couple of pull of points that are shielded from slides. Lower down there's another pulloff skier's right. The morning sun had warmed this south facing couloir and we found perfect corn on the way down.
 
 ![Chris skiing corral couloir](/images/adventures/ski-tour-corral-couloir/chris-skiing-corral-couloir.GIF "Chris skiing corral couloir")
-_Chris skiing corral couloir_
+
+_Skiing corral couloir_
 
 ![View from the top of corral couloir](/images/adventures/ski-tour-corral-couloir/view-from-above-corral-couloir.jpeg "View from the top of corral couloir")
 
