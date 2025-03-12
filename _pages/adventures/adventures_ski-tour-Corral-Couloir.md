@@ -13,7 +13,7 @@ _Mar 1 2025_
 
 ### Get Up and Go
 
-We started hiking from Bear Lake after picking up Calyton in Estes Park at around 7am. I soon realised that I was operating on about half a lung. Four days before the trip, I started coming down with a bad cough. Tash said that I probably had bronchitis. The hike up to Flat Top mountain where Corral Couloir started from was slow. I alternated between taking cough suppressants and magical yellow fever reducing pills from Japan every two hours.
+We started hiking from Bear Lake after picking up Clayton in Estes Park at around 7am. I soon realised that I was operating on about half a lung. Four days before the trip, I started coming down with a bad cough. Tash said that I probably had bronchitis. The hike up to Flat Top mountain where Corral Couloir started from was slow. I alternated between taking cough suppressants and magical yellow fever reducing pills from Japan every two hours.
 
 ![Chris Hiking Up Flat Top Mountain](/images/adventures/ski-tour-corral-couloir/chris-hiking-up-flat-top-mountain.jpeg "Chris Hiking Up Flat Top Mountain")
 
@@ -22,7 +22,10 @@ _Hiking Up Flat Top Mountain_
 ### Skiing My First Couloir
 I arrived to the top of the couloir at midday, where Miles and Clayton had been waiting for my weezing ass. We transitioned and dropped in. The main thing to look out for in this couloir is the cornice that hangs out on the skier's right of the entrance. Sticking to the skier's left of the run, there are a couple of pull of points that are shielded from slides. Lower down there's another pulloff skier's right. The morning sun had warmed this south facing couloir and we found perfect corn on the way down.
 
-![Chris skiing corral couloir](/images/adventures/ski-tour-corral-couloir/chris-skiing-corral-couloir.GIF "Chris skiing corral couloir")
+<p float="center">
+  <img src="/images/adventures/ski-tour-corral-couloir/chris-skiing-corral-couloir.GIF" width="300" />
+</p>
+
 
 _Skiing corral couloir_
 
