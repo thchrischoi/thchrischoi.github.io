@@ -23,22 +23,25 @@ The hike in starts with a roughly 1.8mi skin in the valley between Seven Utes an
 _Getting a little lost_
 
 ### Mt.Mahler
-We were soon climbing up the west face of Mt.Mahler. You could get a great view of Seven Utes from Mt.Mahler, which helped with our planning afterwards.
+We were soon climbing up the west face of Mt.Mahler. You could get a great view of Seven Utes from Mt.Mahler, which helped with our planning afterwards. We ended up transitioning about two thirds of the way up Mt.Mahler, where it started getting thin and icy. Sweet big open face to carve down and get some nice shallow pow turns in.
 
 ![Chris hiking Mt.Mahler](/images/adventures/ski-tour-mt-mahler-and-seven-utes/chris-hiking-mt-mahler.png "Chris hiking Mt.Mahler")
 
 _Getting up Mt.Mahler with a great view of Seven Utes in the background_
 
 
-<!-->![Miles hiking Mt.Mahler](/images/adventures/ski-tour-mt-mahler-and-seven-utes/miles-hiking-mt-mahler.jpg "Miles hiking Mt.Mahler")
-
-_Miles hiking Mt.Mahler_ <-->
-
-The way down was great,
-
 <p float="left">
-  <img src="/images/adventures/ski-tour-mt-mahler-and-seven-utes/miles-hiking-mt-mahler.jpg" width="100" />
-  <img src="/images/adventures/ski-tour-mt-mahler-and-seven-utes/mt-mahler-transitioning.png" width="100" />
+  <img src="/images/adventures/ski-tour-mt-mahler-and-seven-utes/miles-hiking-mt-mahler.jpg" width="250" />
+  <img src="/images/adventures/ski-tour-mt-mahler-and-seven-utes/mt-mahler-west-face.png" width="250" />
 </p>
 
 _(left) Miles hiking Mt.Mahler; (right) Transitioning on Mt.Mahler_
+
+### Seven Utes
+
+The climb from the saddle between Seven Utes and Mt.Mahler looked much harder and further than it actually was. We summmited and ate lunch before skating along the top ridge. The views were incredible. The ski out however, was through some dense trees and was fairly rough until we found old loggin paths to follow. Next time, we'd probably want to drop down off the east face and follow the way we skinned up back down the valley. At the end of the day, it was some great exploration.
+
+<p float="left">
+  <img src="/images/adventures/ski-tour-mt-mahler-and-seven-utes/accending-seven-utes2.png" width="250" />
+  <img src="/images/adventures/ski-tour-mt-mahler-and-seven-utes/looking-northwest-from-seven-utes-summit.png" width="250" />
+</p>
