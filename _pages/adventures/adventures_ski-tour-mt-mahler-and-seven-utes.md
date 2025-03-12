@@ -10,7 +10,7 @@ header:
 
 ![Climbing up the cornice on Seven Utes](/images/adventures/ski-tour-mt-mahler-and-seven-utes/cornice-accent-to-seven-utes.png "Climbing up the Cornice on Seven Utes")
 
-### The Ingridients For a Great Day
+### The Ingredients For a Great Day
 
 Blue skies, no wind, and it had snowed the days leading up to the tour; the stoke was high
 
@@ -30,6 +30,15 @@ We were soon climbing up the west face of Mt.Mahler. You could get a great view 
 _Getting up Mt.Mahler with a great view of Seven Utes in the background_
 
 
-![Miles hiking Mt.Mahler](/images/adventures/ski-tour-mt-mahler-and-seven-utes/miles-hiking-mt-mahler.jpg "Miles hiking Mt.Mahler")
+<!-->![Miles hiking Mt.Mahler](/images/adventures/ski-tour-mt-mahler-and-seven-utes/miles-hiking-mt-mahler.jpg "Miles hiking Mt.Mahler")
 
-_Miles hiking Mt.Mahler_
+_Miles hiking Mt.Mahler_ <-->
+
+The way down was great,
+
+<p float="left">
+  <img src="/images/adventures/ski-tour-mt-mahler-and-seven-utes/miles-hiking-mt-mahler.jpg" width="100" />
+  <img src="/images/adventures/ski-tour-mt-mahler-and-seven-utes/mt-mahler-transitioning.png" width="100" />
+</p>
+
+_(left) Miles hiking Mt.Mahler; (right) Transitioning on Mt.Mahler_
