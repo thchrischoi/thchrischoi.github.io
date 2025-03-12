@@ -1,5 +1,5 @@
 ---
-title: "Ski Tour - Corral Couloir (RMNP)"
+title: "Ski Tour - Corral Couloir"
 permalink: /adventures/adventures_ski-tour-corral-couloir
 classes: single
 header:
@@ -26,26 +26,22 @@ We started hiking from Bear Lake after picking up Calyton in Estes Park at aroun
 
 _Hiking Up Flat Top Mountain_
 
-### Mt.Mahler
-We were soon climbing up the west face of Mt.Mahler. You could get a great view of Seven Utes from Mt.Mahler, which helped with our planning afterwards. We ended up transitioning about two thirds of the way up Mt.Mahler, where it started getting thin and icy. Sweet big open face to carve down and get some nice shallow pow turns in.
+### Skiing My First Couloir
+I arrived at midday, where Miles and Clayton had been waiting for my weezing ass. We transitioned and dropped in. The main thing to look out for in this couloir is the cornice that hangs out on the skier's right of the entrance. Sticking to the skier's left of the run, there are a couple of pull of points that are shielded from slides. Lower down there's another pulloff skier's right. The morning sun had warmed this south facing couloir and we found perfect corn on the way down.
 
-![Chris hiking Mt.Mahler](/images/adventures/ski-tour-mt-mahler-and-seven-utes/chris-hiking-mt-mahler.png "Chris hiking Mt.Mahler")
+![View from the top of corral couloir](/images/adventures/ski-tour-corral-couloir/view-from-above-corral-couloir.jpeg "View from the top of corral couloir")
 
-_Getting up Mt.Mahler with a great view of Seven Utes in the background_
+_View from the top of corral couloir_
 
+![View from the bottom of corral couloir](/images/adventures/ski-tour-corral-couloir/view-from-bottom-of-corral-couloir.jpeg "View from the bottom of corral couloir")
 
-<p float="left">
-  <img src="/images/adventures/ski-tour-mt-mahler-and-seven-utes/miles-hiking-mt-mahler.jpg" width="325" />
-  <img src="/images/adventures/ski-tour-mt-mahler-and-seven-utes/mt-mahler-west-face.png" width="325" />
-</p>
+_View from the bottom of corral couloir_
 
-_(left) Miles hiking Mt.Mahler; (right) Transitioning on Mt.Mahler_
-
-### Seven Utes
-
-The climb from the saddle between Seven Utes and Mt.Mahler looked much harder and further than it actually was. We summmited and ate lunch before skating along the top ridge. The views were incredible. The ski out however, was through some dense trees and was fairly rough until we found old loggin paths to follow. Next time, we'd probably want to drop down off the east face and follow the way we skinned up back down the valley. At the end of the day, it was some great exploration.
+The ski out down the Tyndall Gorge was icy but gorgeous (pun intended). Miles and Clayton also boot packed up and skied down Hallet North Couloir, right above Emerald Lake. I hung out at the bottom and messed around with my ice axe and crampons.
 
 <p float="left">
-  <img src="/images/adventures/ski-tour-mt-mahler-and-seven-utes/accending-seven-utes2.png" width="325" />
-  <img src="/images/adventures/ski-tour-mt-mahler-and-seven-utes/looking-northwest-from-seven-utes-summit.png" width="325" />
+  <img src="/images/adventures/ski-tour-corral-couloir/the-loadout.jpeg" width="325" />
+  <img src="/images/adventures/ski-tour-corral-couloir/miles-clayton-chris-at-emerald-lake.jpeg" width="325" />
 </p>
+
+_(left) The loadout; (right) Chris, Miles, and Clayton at Emerald Lake_
