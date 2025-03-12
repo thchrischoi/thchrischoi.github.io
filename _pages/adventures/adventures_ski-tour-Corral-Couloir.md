@@ -6,7 +6,6 @@ header:
   image: "/images/BG_Home.png"
 
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/images/adventures/ski-tour-corral-couloir/chris-skiing-corral-couloir.jpeg" alt="">
 
 ![Chris skiing Corral Couloir](/images/adventures/ski-tour-corral-couloir/chris-skiing-corral-couloir.jpeg "Chris skiing Corral Couloir")
 
@@ -40,8 +39,8 @@ _View from the bottom of corral couloir_
 The ski out down the Tyndall Gorge was icy but gorgeous (pun intended). Miles and Clayton also boot packed up and skied down Hallet North Couloir, right above Emerald Lake. I hung out at the bottom and messed around with my ice axe and crampons.
 
 <p float="left">
-  <img src="/images/adventures/ski-tour-corral-couloir/the-loadout.jpeg" width="325" />
-  <img src="/images/adventures/ski-tour-corral-couloir/miles-clayton-chris-at-emerald-lake.jpeg" width="325" />
+  <img src="/images/adventures/ski-tour-corral-couloir/the-loadout.jpeg" width="300" />
+  <img src="/images/adventures/ski-tour-corral-couloir/miles-clayton-chris-at-emerald-lake.jpeg" width="300" />
 </p>
 
 _(left) The loadout; (right) Chris, Miles, and Clayton at Emerald Lake_
