@@ -47,3 +47,5 @@ The climb from the saddle between Seven Utes and Mt.Mahler looked much harder an
   <img src="/images/adventures/ski-tour-mt-mahler-and-seven-utes/accending-seven-utes2.png" width="300" />
   <img src="/images/adventures/ski-tour-mt-mahler-and-seven-utes/looking-northwest-from-seven-utes-summit.png" width="300" />
 </p>
+
+![Haley Dance](/images/adventures/ski-tour-mt-mahler-and-seven-utes/haley1.GIF "Haley Dance")

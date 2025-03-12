@@ -7,7 +7,6 @@ header:
 
 ---
 
-![Chris skiing Corral Couloir](/images/adventures/ski-tour-corral-couloir/chris-skiing-corral-couloir.jpeg "Chris skiing Corral Couloir")
 
 ### Out of Breath
 
@@ -17,7 +16,7 @@ The presciption was to essentially spend three days in bed.
 
 ### Get Up and Go
 
-Like Yasuo in Yukio Mishima's "The Sound of Waves", I mustered all my "get up and go" at 4am on Sunday and convinced Miles that I was good to go.
+Like Yasuo in Yukio Mishima's "The Sound of Waves", I mustered all my "get up and go" at 4am on Sunday and convinced myself that I was good to go.
 
 We started hiking from Bear Lake after picking up Calyton in Estes Park at around 7am. I soon realised that I was operating on about half a lung. The hike up to Flat Top mountain where Corral Couloir started from was slow and tortuous. I alternated between taking cough suppressants and magical yellow fever reducing pills from Japan every two hours.
 
