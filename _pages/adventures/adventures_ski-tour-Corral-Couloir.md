@@ -1,5 +1,5 @@
 ---
-title: "Ski Tour - Mt.Mahler and Seven Utes"
+title: "Ski Tour - Corral Couloir (RMNP)"
 permalink: /adventures/adventures_ski-tour-corral-couloir
 classes: single
 header:

@@ -10,5 +10,6 @@ header:
 ![Climbing up the cornice on Seven Utes](/images/adventures/ski-tour-mt-mahler-and-seven-utes/cornice-accent-to-seven-utes.png "Climbing up the Cornice on Seven Utes")
 
 
-**[Ski Tour - Corral Couloir (RMNP)](/adventures/adventures_ski-tour-corral-couloir.md)** *Mar 8 2025*
+**[Ski Tour - Corral Couloir (RMNP)](/adventures/adventures_ski-tour-corral-couloir.md)** *Mar 1 2025*
+
 ![Chris skiing Corral Couloir](/images/adventures/ski-tour-corral-couloir/chris-skiing-corral-couloir.jpeg "Chris skiing Corral Couloir")
