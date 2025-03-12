@@ -6,7 +6,9 @@ header:
   image: "/images/BG_Home.png"
 
 ---
+_Mar 1 2025_
 
+![Chris skiing Corral Couloir](/images/adventures/ski-tour-corral-couloir/chris-skiing-corral-couloir.jpeg "Chris skiing Corral Couloir")
 
 ### Out of Breath
 
