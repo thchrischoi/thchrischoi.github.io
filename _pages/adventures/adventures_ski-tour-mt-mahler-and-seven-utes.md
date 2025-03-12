@@ -8,6 +8,8 @@ header:
 ---
 <img src="{{ site.url }}{{ site.baseurl }}/images/adventures/ski-tour-mt-mahler-and-seven-utes/cornice-accent-to-seven-utes.PNG" alt="">
 
+_Mar 8 2025_
+
 ![Climbing up the cornice on Seven Utes](/images/adventures/ski-tour-mt-mahler-and-seven-utes/cornice-accent-to-seven-utes.png "Climbing up the Cornice on Seven Utes")
 
 ### The Ingredients For a Great Day
@@ -39,7 +41,7 @@ _(left) Miles hiking Mt.Mahler; (right) Transitioning on Mt.Mahler_
 
 ### Seven Utes
 
-The climb from the saddle between Seven Utes and Mt.Mahler looked much harder and further than it actually was. We summmited and ate lunch before skating along the top ridge. The views were incredible. The ski out however, was through some dense trees and was fairly rough until we found old loggin paths to follow. Next time, we'd probably want to drop down off the east face and follow the way we skinned up back down the valley. At the end of the day, it was some great exploration.
+The climb from the saddle between Seven Utes and Mt.Mahler looked much harder and further than it actually was. We summmited and ate lunch before skating along the top ridge. The views were incredible. The ski out however, was through some dense trees and was fairly rough until we found old loggin paths to follow. Next time, I'd  want to drop down off the east face and follow the way we skinned up back down the valley. At the end of the day, it was some great exploration.
 
 <p float="left">
   <img src="/images/adventures/ski-tour-mt-mahler-and-seven-utes/accending-seven-utes2.png" width="300" />
