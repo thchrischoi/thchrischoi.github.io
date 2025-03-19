@@ -8,7 +8,7 @@ header:
 ---
 _Mar 1 2025_
 
-![Scott en-route to lil' Japan](/images/adventures/ski-tour-clark-peak-yurt-trip/scott-en-route-to-lil-japan.jpeg "Scott en-route to lil' Japan")
+![Scott en-route to lil' Japan](/images/adventures/ski-tour-clark-peak-yurt-trip/scott-en-route-to-lil-japan.jpg)
 
 
 ### Get Up and Go
