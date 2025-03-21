@@ -6,14 +6,68 @@ header:
   image: "/images/BG_Home.png"
 
 ---
-_Mar 1 2025_
+_Mar 14-16 2025_
 
+![Group Photo](/images/adventures/ski-tour-clark-peak-yurt-trip/group-photo.jpg)
+
+
+### Day 1
+* Vert:
+* Mileage:
+
+We arrived at the hut with our sled and far too much gear. It was about two miles to get there with around 600 feet vert. Pulling a sled was interesting. It was mostly smooth sailing but
+
+<Photo of sled>
+
+First line down from part-way up Japan trees. No one there, break all trail, pow conditions. Finding Scott at Yurt
+Stew for dinner
+
+< Photo of Scott at hut >
+< photo of fire in hut>
+
+
+
+### Day 2
+* Vert:
+* Mileage:
+* Lines: Lil' Japan, Margie's Knoll
+
+Lil' Japan description - trail breaking was tough, vert was intense, 4-8in the day before
+Ski was awesome, pow was fantastic and carving from the top was mint
+
+< Gif/vid of ski down>
+< Photo me under snow tree> <photo of Miles and scott hiking up
+<Scott looking out towards lynx Couloir>
 ![Scott en-route to lil' Japan](/images/adventures/ski-tour-clark-peak-yurt-trip/scott-en-route-to-lil-japan.jpg)
 
 
-### Get Up and Go
+Margie's Knoll
+Never take a short cut, ended up booting up and taking an alternate Lines
 
-We started hiking from Bear Lake after picking up Clayton in Estes Park at around 7am. I soon realised that I was operating on about half a lung. Four days before the trip, I started coming down with a bad cough. Tash said that I probably had bronchitis. The hike up to Flat Top mountain where Corral Couloir started from was slow. I alternated between taking cough suppressants and magical yellow fever reducing pills from Japan every two hours.
+< Pic of Miles and Scott boot up>  < Pic of me boot up>
+
+
+End of day with grilling in the wood fireplace with sausage and picana
+
+
+### Day 3
+* Vert:
+* Mileage:
+* Lines: Jewel Lake Glades
+
+THis was a long long hike. Cleaned up yurt and stashed our sled with gear somewhere Beautiful landscapes going up the valley towards the lake. we were really beat by then but glad we got to the top. A few nice turns on the way down of the skier's left side of the South Fork Canadian river
+
+WE headed out and got some sunny blue skies to skin out with. beautiful veiw of the nokhu crags and seven ute's, which we skied last week, from the trail
+
+
+<Me and miles back turned hiking> < Scott in distance skinning>
+< Panorama at the lake >
+< view of nokhu's from afar>
+
+
+
+
+
 
 <p float="center">
   <img src="/images/adventures/ski-tour-corral-couloir/chris-hiking-up-flat-top-mountain.jpeg" width="400" />
