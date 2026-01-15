@@ -23,7 +23,7 @@ First line down from part-way up Japan trees. No one there, break all trail, pow
 Stew for dinner
 
 < Photo of Scott at hut >
-< photo of fire in hut>
+![Got the fire and stoked and gear drying](/images/adventures/ski-tour-clark-peak-yurt-trip/yurt-fireplace.jpg)
 
 
 
@@ -38,16 +38,20 @@ Ski was awesome, pow was fantastic and carving from the top was mint
 < Gif/vid of ski down>
 < Photo me under snow tree> <photo of Miles and scott hiking up
 <Scott looking out towards lynx Couloir>
-![Scott en-route to lil' Japan](/images/adventures/ski-tour-clark-peak-yurt-trip/scott-en-route-to-lil-japan.jpg)
+
+![Scott en-route to lil' Japan checking out Lynx Couloir](/images/adventures/ski-tour-clark-peak-yurt-trip/scott-en-route-to-lil-japan.jpg)
 
 
 Margie's Knoll
 Never take a short cut, ended up booting up and taking an alternate Lines
 
-< Pic of Miles and Scott boot up>  < Pic of me boot up>
+<p float="left">
+  <img src="/images/adventures/ski-tour-clark-peak-yurt-trip/ruby-jewel-trailhead.jpg" width="300" />
+  <img src="/images/adventures/ski-tour-clark-peak-yurt-trip/miles-adn-scott-climbing-margies-knoll.jpg" width="300" />
+</p>
 
+ < Pic of me boot up>
 
-End of day with grilling in the wood fireplace with sausage and picana
 
 
 ### Day 3
@@ -63,41 +67,3 @@ WE headed out and got some sunny blue skies to skin out with. beautiful veiw of 
 <Me and miles back turned hiking> < Scott in distance skinning>
 < Panorama at the lake >
 < view of nokhu's from afar>
-
-
-
-
-
-
-<p float="center">
-  <img src="/images/adventures/ski-tour-corral-couloir/chris-hiking-up-flat-top-mountain.jpeg" width="400" />
-</p>
-
-_Hiking Up Flat Top Mountain_
-
-### Skiing My First Couloir
-I arrived to the top of the couloir at midday, where Miles and Clayton had been waiting for my weezing ass. We transitioned and dropped in. The main thing to look out for in this couloir is the cornice that hangs out on the skier's right of the entrance. Sticking to the skier's left of the run, there are a couple of pull of points that are shielded from slides. Lower down there's another pulloff skier's right. The morning sun had warmed this south facing couloir and we found perfect corn on the way down.
-
-<p float="center">
-  <img src="/images/adventures/ski-tour-corral-couloir/chris-skiing-corral-couloir.GIF" width="400" />
-</p>
-
-
-_Skiing corral couloir_
-
-![View from the top of corral couloir](/images/adventures/ski-tour-corral-couloir/view-from-above-corral-couloir.jpeg "View from the top of corral couloir")
-
-_View from the top of corral couloir_
-
-![View from the bottom of corral couloir](/images/adventures/ski-tour-corral-couloir/view-from-bottom-of-corral-couloir.jpeg "View from the bottom of corral couloir")
-
-_View from the bottom of corral couloir_
-
-The ski out down the Tyndall Gorge was icy but gorgeous (pun intended). Miles and Clayton also boot packed up and skied down Hallet North Couloir, right above Emerald Lake. I hung out at the bottom and messed around with my ice axe and crampons.
-
-<p float="center">
-  <img src="/images/adventures/ski-tour-corral-couloir/the-loadout.jpeg" width="300" />
-  <img src="/images/adventures/ski-tour-corral-couloir/miles-clayton-chris-at-emerald-lake.jpeg" width="300" />
-</p>
-
-_(left) The loadout; (right) Chris, Miles, and Clayton at Emerald Lake_
