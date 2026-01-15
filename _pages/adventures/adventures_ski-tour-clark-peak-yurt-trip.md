@@ -12,8 +12,8 @@ _Mar 14-16 2025_
 
 
 ### Day 1
-* Vert:
-* Mileage:
+* Vert: 1277ft
+* Mileage: 6.97mi
 
 We arrived at the hut with our sled and far too much gear. It was about two miles to get there with around 600 feet vert. Pulling a sled was interesting. It was mostly smooth sailing but
 
@@ -28,8 +28,8 @@ Stew for dinner
 
 
 ### Day 2
-* Vert:
-* Mileage:
+* Vert: 2122ft
+* Mileage: 8.46mi
 * Lines: Lil' Japan, Margie's Knoll
 
 Lil' Japan description - trail breaking was tough, vert was intense, 4-8in the day before
@@ -50,16 +50,22 @@ Never take a short cut, ended up booting up and taking an alternate Lines
   <img src="/images/adventures/ski-tour-clark-peak-yurt-trip/miles-adn-scott-climbing-margies-knoll.jpg" width="300" />
 </p>
 
- < Pic of me boot up>
-
+![Me bootpacking up Margie's knoll](/images/adventures/ski-tour-clark-peak-yurt-trip/chris-climbing-margies-knoll.jog)
 
 
 ### Day 3
-* Vert:
-* Mileage:
+* Vert: 1738ft
+* Mileage: 9.56mi
 * Lines: Jewel Lake Glades
 
+<p float="left">
+  <img src="/images/adventures/ski-tour-clark-peak-yurt-trip/chris-and-miles-en-route-to-jewel-lake.jpg" width="300" />
+  <img src="/images/adventures/ski-tour-clark-peak-yurt-trip/mscott-en-route-to-jewel-lake.jpg" width="300" />
+</p>
+
 THis was a long long hike. Cleaned up yurt and stashed our sled with gear somewhere Beautiful landscapes going up the valley towards the lake. we were really beat by then but glad we got to the top. A few nice turns on the way down of the skier's left side of the South Fork Canadian river
+
+![Panorama of Jewel Lake](/images/adventures/ski-tour-clark-peak-yurt-trip/jewel-lake.jog)
 
 WE headed out and got some sunny blue skies to skin out with. beautiful veiw of the nokhu crags and seven ute's, which we skied last week, from the trail
 
