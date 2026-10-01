@@ -12,7 +12,7 @@ header:
 {% for adventure in adventures %}
 <article>
   <h2><a href="{{ adventure.url | relative_url }}">{{ adventure.title | escape }}</a></h2>
-  <p><time datetime="{{ adventure.adventure_date }}">{{ adventure.adventure_date | date: "%b %-d, %Y" }}</time></p>
+  <p><time datetime="{{ adventure.adventure_date }}">{{ adventure.adventure_date | date: "%b %-d, %Y" }}</time>{% if adventure.adventure_end_date and adventure.adventure_end_date != "" and adventure.adventure_end_date != adventure.adventure_date %} – <time datetime="{{ adventure.adventure_end_date }}">{{ adventure.adventure_end_date | date: "%b %-d, %Y" }}</time>{% endif %}</p>
   {% if adventure.cover and adventure.cover != "" %}
   <a href="{{ adventure.url | relative_url }}"><img src="{{ adventure.cover | relative_url | escape }}" alt="{{ adventure.title | escape }}" loading="lazy"></a>
   {% endif %}

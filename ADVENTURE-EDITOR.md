@@ -1,32 +1,41 @@
 # Adventure editor
 
-After deploying these changes, open `/adventures/` and click **Add new post**, or go directly to `/admin/`.
+Open `/admin/` or click **Add new post** on Adventures. Existing posts have an **Edit post** link. Unlock with a fine-grained GitHub token for `thchrischoi`, scoped to this repository with **Contents: Read and write**. The token is held in memory only.
 
-## One-time setup
+## Create and edit
 
-Create a [fine-grained GitHub token](https://github.com/settings/personal-access-tokens/new) while signed in as `thchrischoi`. Select only `thchrischoi.github.io`; grant **Contents: Read and write**. Choose an expiration and save the token in a password manager. Do not put it in this repository or send it through chat.
+- Start a new post, or select a post under **Edit a published post** and click **Open post**.
+- Enter one date, or check **This adventure spans multiple days** and enter an end date.
+- Add paragraphs, headings, lists, media, and maps. Preview before publishing.
+- To arrange existing images, select their **Select photo for grouping** checkboxes and choose side by side (2–3) or carousel (2+). Grouping places them at the first selected image's position, in their original order. Groups can be reordered, captioned, and ungrouped.
+- To upload directly into a group, choose its display mode before selecting files. Use the file control inside an existing group to add more photos (rows are limited to three).
+- Carousels support swiping/scrolling and arrow buttons. Clicking photos opens an expanded viewer with previous/next controls and Escape to close.
+- **Save changes** updates the existing post and keeps its URL. Existing media files are reused, not duplicated. Removing an image from a post does not delete the original repository file.
 
-The editor targets the existing `master` branch and expects GitHub Pages to build from its root. If the Pages source differs, change `BRANCH` in `admin/core.mjs` and the branch label in `admin/index.html`. Branch rules requiring pull requests will block direct publishing. The token must have permission to write to the branch.
+The first editor's posts, including Whitney/Muir, import as editable story sections with existing media. Older handwritten Markdown posts open with their original body in a labeled source field so custom formatting is preserved; new blocks can be added after it. New and updated posts store their editable structure in an encoded comment alongside the rendered content. If manually editing those posts in GitHub, update or remove that comment too; otherwise the editor uses the saved structure.
 
-## Writing
+## Media
 
-1. Click **Add new post** and paste the token to unlock the editor.
-2. Enter the title, date, and introduction. Add paragraphs, headings, and lists without writing Markdown or HTML.
-3. Choose photos, GIFs, or videos. Add captions and reorder sections using the arrows. The first image becomes the Adventures cover.
-4. Preview, then **Publish adventure**. Wait for the success message and GitHub Pages rebuild.
+The picker intentionally has no photo-only filter. On phones, choose **Browse / Choose Files** to find GIFs, videos, and GPX files.
 
-Supported attachments: JPEG, PNG, GIF, WebP, MP4, WebM. Limits imposed by this editor: 25 MiB per attachment and 75 MiB total. Video playback also depends on the codec; H.264 MP4 works in common browsers. Files live in the public repository. Large clips should be compressed before upload.
+Supported: JPG/JPEG, PNG, GIF, WebP, MP4, WebM, MOV, M4V, GPX. Uppercase extensions and files without browser-supplied MIME types are supported. Limits: 25 MiB per file, 75 MiB of new attachments per save. MP4 with H.264 is the most compatible video format; MOV/M4V playback depends on the browser and codec. A download link is included for videos. No transcoding or image recompression occurs.
 
-Drafts and the token stay in memory, not browser storage. Closing/reloading the tab loses the draft. Lock clears the token while keeping the draft in that open tab. To renew or revoke a token, use GitHub token settings. The editor has no third-party scripts and restricts network connections to GitHub's API.
+## Maps and GPX
 
-## Publishing behavior
+**+ Map location** supports either latitude/longitude and a zoom level, or a Google Maps / OpenStreetMap embed URL or iframe. For Google Maps, use Share → Embed a map. Only supported HTTPS embed endpoints are accepted; arbitrary iframe hosts are rejected.
 
-Posts are saved under `_pages/adventures/`, with attachments under `images/adventures/`. New posts have `adventure: true` and appear automatically in the Adventures list. Existing stories and URLs are retained. The editor creates all attachments and the story in one commit, and uses a non-forced branch update so concurrent changes cannot be overwritten. Failed uploads keep the draft in the editor. A retry checks for the same post before creating another commit.
+Upload a `.gpx` file using the individual-media option. It is validated and displayed on an interactive OpenStreetMap map; track segments stay separate. Track points, route points, and waypoints are supported. Large tracks are sampled for display (roughly 10,000 points); the downloadable original keeps every point. Add a caption and preview the route before publishing. The GPX and its original coordinates become public with the post.
 
-The admin page and button are public, but publishing requires a token with repository write access. The editor additionally checks the signed-in account is `thchrischoi`; GitHub is the actual security boundary. As with any repository, other people independently granted write access can change files outside this editor.
+Maps use bundled Leaflet 1.9.4 and OpenStreetMap tiles, with attribution. A tile-server connection is required for the base map. Embed maps contact the chosen map provider.
 
-Once posts have been published online, pull the latest repository changes before making local changes. This editor creates new posts only; existing posts can still be edited in GitHub.
+## Saving and recovery
 
-## Verification
+The editor targets `master` with GitHub Pages building from its root. Files and the post are saved in a single commit; non-forced branch updates prevent concurrent changes from being overwritten. Editing checks that the post's source SHA still matches the loaded version. If another edit changed it, copy your draft changes and reopen the latest post.
 
-Run `node --test checks/adventure-editor.test.mjs` for formatting, escaping, attachment limits, authorization, and mocked publishing tests. A full live publishing check needs the owner's token and creates a public post; automated checks do not do that.
+Upload progress and completion appear both near the top and beside Publish. Each GitHub request has a two-minute timeout. A timeout after the final save may still mean the post was saved: check the live page or GitHub before retrying. Never refresh or close an unsaved draft; drafts live only in the current tab. Lock clears the token but retains the draft in that tab.
+
+Pull remote changes before editing this repository locally, since browser publishing commits directly to GitHub.
+
+## Checks
+
+`node --test checks/adventure-editor.test.mjs` covers rendering, date ranges, media validation, encoded-data round-trips, authorization, stale-edit protection, atomic publishing, map embed restrictions, and timeouts. Browser verification also covers importing the real first-editor post, GPX parsing, grouping, expansion, map preview, and mocked saving. No test publishes a user post.
