@@ -4,14 +4,18 @@ permalink: /adventures/
 classes: single
 header:
   image: "/images/BG_Home.png"
-
 ---
-**[Ski Tour - Clark Peak Yurt Trip](/adventures/adventures_ski-tour-clark-peak-yurt-trip.md)** *Mar 14-16 2025*
-![Group Photo](/images/adventures/ski-tour-clark-peak-yurt-trip/group-photo.jpg)
 
-**[Ski Tour - Mt. Mahler and Seven Utes](/adventures/adventures_ski-tour-mt-mahler-and-seven-utes.md)** *Mar 8 2025*
-![Climbing up the cornice on Seven Utes](/images/adventures/ski-tour-mt-mahler-and-seven-utes/cornice-accent-to-seven-utes.png "Climbing up the Cornice on Seven Utes")
+<p><a class="btn btn--primary" href="{{ '/admin/' | relative_url }}">Add new post</a> <small>Owner access</small></p>
 
-
-**[Ski Tour - Corral Couloir](/adventures/adventures_ski-tour-corral-couloir)** *Mar 1 2025*
-![Chris skiing Corral Couloir](/images/adventures/ski-tour-corral-couloir/chris-skiing-corral-couloir.jpeg "Chris skiing Corral Couloir")
+{% assign adventures = site.pages | where: "adventure", true | sort: "adventure_date" | reverse %}
+{% for adventure in adventures %}
+<article>
+  <h2><a href="{{ adventure.url | relative_url }}">{{ adventure.title | escape }}</a></h2>
+  <p><time datetime="{{ adventure.adventure_date }}">{{ adventure.adventure_date | date: "%b %-d, %Y" }}</time></p>
+  {% if adventure.cover and adventure.cover != "" %}
+  <a href="{{ adventure.url | relative_url }}"><img src="{{ adventure.cover | relative_url | escape }}" alt="{{ adventure.title | escape }}" loading="lazy"></a>
+  {% endif %}
+  {% if adventure.excerpt %}<p>{{ adventure.excerpt }}</p>{% endif %}
+</article>
+{% endfor %}

@@ -1,4 +1,7 @@
 ---
+adventure: true
+adventure_date: '2025-03-01'
+cover: '/images/adventures/ski-tour-corral-couloir/chris-skiing-corral-couloir.jpeg'
 title: "Ski Tour - Corral Couloir"
 permalink: /adventures/adventures_ski-tour-corral-couloir
 classes: single

@@ -1,4 +1,7 @@
 ---
+adventure: true
+adventure_date: '2025-03-14'
+cover: '/images/adventures/ski-tour-clark-peak-yurt-trip/group-photo.jpg'
 title: "Ski Tour - Clark Peak Yurt Trip"
 permalink: /adventures/adventures_ski-tour-clark-peak-yurt-trip
 classes: single

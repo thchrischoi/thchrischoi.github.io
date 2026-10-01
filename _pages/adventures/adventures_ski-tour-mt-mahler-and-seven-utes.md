@@ -1,4 +1,7 @@
 ---
+adventure: true
+adventure_date: '2025-03-08'
+cover: '/images/adventures/ski-tour-mt-mahler-and-seven-utes/cornice-accent-to-seven-utes.png'
 title: "Ski Tour - Mt.Mahler and Seven Utes"
 permalink: /adventures/adventures_ski-tour-mt-mahler-and-seven-utes
 classes: single
