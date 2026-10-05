@@ -1,0 +1,33 @@
+---
+layout: single
+title: "Photo Gallery"
+permalink: /gallery/
+classes: wide
+author_profile: false
+gallery: true
+---
+<div class="gallery-heading">
+  <div><p class="gallery-kicker">THROUGH MY LENS</p><h2>A closer look.</h2><p class="gallery-intro">Favourite frames from the mountains, the road, and the moments in between.</p></div>
+  <a class="gallery-manage" href="{{ '/admin/gallery.html' | relative_url }}">Manage photos <span>Owner access</span></a>
+</div>
+{% assign photos = site.data.gallery.photos %}
+{% if photos.size > 0 %}
+<p class="gallery-count">{{ photos.size }} photographs · Select a photo to explore</p>
+<div class="photo-grid" id="photo-grid">
+{% for photo in photos %}
+<button type="button" class="gallery-tile" aria-label="View {{ photo.name | escape }}" data-photo="{{ photo | jsonify | escape }}">
+<img src="{{ photo.src | relative_url | escape }}" width="{{ photo.width }}" height="{{ photo.height }}" alt="{{ photo.name | escape }}" loading="lazy" decoding="async" draggable="false">
+<span class="gallery-tile-title">{{ photo.name | escape }}</span>
+</button>
+{% endfor %}
+</div>
+{% else %}
+<div class="gallery-empty"><span aria-hidden="true">＋</span><h3>A collection in the making.</h3><p>Selected photographs will appear here soon.</p></div>
+{% endif %}
+<dialog id="gallery-viewer" class="gallery-viewer" aria-labelledby="gallery-photo-name">
+<button class="gallery-close" type="button" aria-label="Close photo">Close ×</button>
+<div class="gallery-viewer-layout">
+<div class="gallery-photo-stage"><button type="button" class="gallery-prev" aria-label="Previous photo">←</button><img id="gallery-full-photo" alt="" draggable="false"><button type="button" class="gallery-next" aria-label="Next photo">→</button></div>
+<aside class="gallery-details"><p class="gallery-kicker" id="gallery-photo-count" aria-live="polite"></p><h2 id="gallery-photo-name"></h2><p id="gallery-photo-description"></p><dl><dt>Date taken</dt><dd id="gallery-photo-date"></dd></dl><div id="gallery-photo-tags" aria-label="Photo tags"></div><p class="gallery-photo-reference" id="gallery-photo-reference"></p></aside>
+</div>
+</dialog>

@@ -19,3 +19,5 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Photo Gallery"
+    url: /gallery/
