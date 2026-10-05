@@ -20,17 +20,26 @@ let lightbox;
 function showPhoto(links,index) {
  if(!lightbox) {
   lightbox=document.createElement('dialog');lightbox.className='adventure-lightbox';
-  lightbox.innerHTML='<button type="button" class="lightbox-close" aria-label="Close expanded photo">Close ×</button><div class="lightbox-stage"><button type="button" data-step="-1" aria-label="Previous expanded photo">←</button><img alt=""><button type="button" data-step="1" aria-label="Next expanded photo">→</button></div><p aria-live="polite"></p>';
+  lightbox.innerHTML='<button type="button" class="lightbox-close" aria-label="Close expanded photo">Close ×</button><div class="lightbox-stage"><button type="button" data-step="-1" aria-label="Previous expanded photo">←</button><img alt="" draggable="false"><button type="button" data-step="1" aria-label="Next expanded photo">→</button></div><p aria-live="polite"></p>';
   document.body.append(lightbox);lightbox.querySelector('.lightbox-close').onclick=()=>lightbox.close();
   lightbox.addEventListener('click',e=>{if(e.target===lightbox)lightbox.close();});
  }
- const update=()=>{const a=links[index];lightbox.querySelector('img').src=a.href;lightbox.querySelector('img').alt=a.querySelector('img').alt;lightbox.querySelector('p').textContent=`${index+1} / ${links.length} — ${a.querySelector('img').alt}`;};
+ const update=()=>{const a=links[index];lightbox.querySelector('img').src=a.querySelector('img').currentSrc||a.querySelector('img').src;lightbox.querySelector('img').alt=a.querySelector('img').alt;lightbox.querySelector('p').textContent=`${index+1} / ${links.length} — ${a.querySelector('img').alt}`;};
  const advance=step=>{index=(index+step+links.length)%links.length;update();};
  lightbox.querySelectorAll('[data-step]').forEach(b=>{b.disabled=links.length<2;b.onclick=()=>advance(Number(b.dataset.step));});
  lightbox.onkeydown=e=>{if(e.key==='ArrowLeft'||e.key==='ArrowRight'){e.preventDefault();advance(e.key==='ArrowLeft'?-1:1);}};
  update();if(!lightbox.open)lightbox.showModal();
 }
 export function initMedia(root=document) {
+ // Upgrade already-published image links to native buttons without changing post files.
+ root.querySelectorAll('a.adventure-photo, .page__content a[href]').forEach(link=>{
+  const image=link.querySelector('img');
+  if(!image || (!link.classList.contains('adventure-photo') && !/\.(?:jpe?g|png|gif|webp)(?:[?#]|$)/i.test(link.getAttribute('href')))) return;
+  const button=document.createElement('button');button.type='button';button.className='adventure-photo';
+  button.setAttribute('aria-label',link.getAttribute('aria-label')||`Expand photo: ${image.alt||'Photo'}`);
+  button.append(...link.childNodes);link.replaceWith(button);
+ });
+ root.querySelectorAll('.adventure-photo img').forEach(image=>{image.draggable=false;});
  root.querySelectorAll('.adventure-photo:not([data-ready])').forEach(a=>{a.dataset.ready='true';a.addEventListener('click',e=>{e.preventDefault();e.stopImmediatePropagation();const group=a.closest('.adventure-gallery');const links=group?Array.from(group.querySelectorAll('.adventure-photo')):[a];showPhoto(links,links.indexOf(a));},{capture:true});});
  root.querySelectorAll('.adventure-carousel:not([data-ready])').forEach(gallery=>{
   gallery.dataset.ready='true';const track=gallery.querySelector('.gallery-track'),slides=Array.from(track.children),count=gallery.querySelector('.slide-count');

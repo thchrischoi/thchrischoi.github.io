@@ -1,6 +1,11 @@
 // Discourage casual image saving without blocking text, navigation, or map menus.
-document.addEventListener('contextmenu', event => {
-  if (!(event.target instanceof Element)) return;
-  const image = event.target.closest('img') || event.target.closest('a')?.querySelector('img');
-  if (image && !image.closest('.leaflet-container')) event.preventDefault();
-}, { capture: true });
+function isPhotoTarget(target) {
+  if (!(target instanceof Element)) return false;
+  const image = target.closest('img') || target.closest('a, .adventure-photo')?.querySelector('img');
+  return image && !image.closest('.leaflet-container');
+}
+for (const type of ['contextmenu', 'dragstart']) {
+  document.addEventListener(type, event => {
+    if (isPhotoTarget(event.target)) event.preventDefault();
+  }, { capture: true });
+}

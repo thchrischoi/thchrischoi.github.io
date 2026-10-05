@@ -21,7 +21,7 @@ export function safeSrc(src) {if(!/^\/(?!\/)/.test(src) && !/^blob:/.test(src)) 
 export function encodeData(value) {return btoa(Array.from(new TextEncoder().encode(JSON.stringify(value)),b=>String.fromCharCode(b)).join(''));}
 export function decodeData(value) {return JSON.parse(new TextDecoder().decode(Uint8Array.from(atob(value),c=>c.charCodeAt(0))));}
 export function renderBlocks(blocks,urlFor=b=>b.src,{preview=false}={}) {
- const photo=b=>`<figure><a class="adventure-photo" href="${safeSrc(urlFor(b))}" aria-label="Expand photo: ${escapeHTML(b.text||'Photo')}"><img src="${safeSrc(urlFor(b))}" alt="${escapeHTML(b.text||'')}" loading="lazy"></a>${b.text?`<figcaption>${escapeHTML(b.text)}</figcaption>`:''}</figure>`;
+ const photo=b=>`<figure><button type="button" class="adventure-photo" aria-label="Expand photo: ${escapeHTML(b.text||'Photo')}"><img src="${safeSrc(urlFor(b))}" alt="${escapeHTML(b.text||'')}" loading="lazy" draggable="false"></button>${b.text?`<figcaption>${escapeHTML(b.text)}</figcaption>`:''}</figure>`;
  return blocks.map(b=>{
   const text=escapeHTML(b.text||'');
   if(b.kind==='source') return preview?`<pre class="source-preview">${text}</pre>`:b.text;
