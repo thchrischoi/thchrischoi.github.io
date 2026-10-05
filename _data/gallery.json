@@ -154,6 +154,48 @@
         "forests",
         "california"
       ]
+    },
+    {
+      "id": "5043b50a-ffc4-4a89-887a-2c70de67458d",
+      "src": "/images/gallery/5043b50a-ffc4-4a89-887a-2c70de67458d.jpg",
+      "width": 3517,
+      "height": 4548,
+      "name": "Breaktime, Colorado",
+      "description": "Backcountry skier takes a break in the snow beneath the Nokhu Crags in  Cameron Pass, Colorado.",
+      "date": "2026-02-21",
+      "tags": [
+        "snow",
+        "landscapes",
+        "colorado"
+      ]
+    },
+    {
+      "id": "d94ecfc2-ebd7-4ad0-81f8-1bbebf23b88f",
+      "src": "/images/gallery/d94ecfc2-ebd7-4ad0-81f8-1bbebf23b88f.jpg",
+      "width": 3139,
+      "height": 4059,
+      "name": "Moonrise, Colorado",
+      "description": "Splitboarder at the top of South Diamond at Cameron Pass, Colorado.",
+      "date": "2026-05-09",
+      "tags": [
+        "snow",
+        "action",
+        "colorado"
+      ]
+    },
+    {
+      "id": "23c183bf-b25a-4d62-a0a8-1aad167c3cd1",
+      "src": "/images/gallery/23c183bf-b25a-4d62-a0a8-1aad167c3cd1.jpg",
+      "width": 4978,
+      "height": 3018,
+      "name": "Determining the Line, Colorado",
+      "description": "Splitboarder contemplates which line to drop down on atop South Diamond at Cameron Pass, Colorado.",
+      "date": "2026-05-09",
+      "tags": [
+        "snow",
+        "action",
+        "colorado"
+      ]
     }
   ]
 }
