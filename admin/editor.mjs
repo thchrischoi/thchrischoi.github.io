@@ -1,6 +1,6 @@
-import {MAX_TOTAL,REPO,BRANCH,mediaExtension,isVideo,allMedia,makePost,renderBlocks,escapeHTML,github,verifyOwner,publishPost,field,splitSource} from './core.mjs';
+import {MAX_TOTAL,REPO,BRANCH,mediaExtension,isVideo,allMedia,makePost,renderBlocks,escapeHTML,github,verifyOwner,publishPost,field,splitSource} from './core.mjs?v=photo-controls-2';
 import {loadPost} from './import.mjs';
-import {initMedia,parseGPX} from './media.mjs';
+import {initMedia,parseGPX} from './media.mjs?v=photo-controls-2';
 const $=id=>document.getElementById(id);
 let api=null,busy=false,dirty=false,published=false,blocks=[],editing={},draftId=crypto.randomUUID().slice(0,8);
 const today=new Date();$('date').value=`${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
