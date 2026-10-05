@@ -25,6 +25,7 @@
       "date": "2026-09-27",
       "tags": [
         "mountains",
+        "landscapes",
         "colorado"
       ]
     },
@@ -34,10 +35,11 @@
       "width": 4548,
       "height": 3517,
       "name": "Base of Mt.Whitney, California",
-      "description": "A moment of still before summitting Mt.Whitney(14,495ft) the next morning.",
+      "description": "A moment of still before summitting Mt.Whitney (14,495ft) the next morning.",
       "date": "2026-09-21",
       "tags": [
         "mountains",
+        "landscapes",
         "california"
       ]
     },
@@ -51,6 +53,76 @@
       "date": "2026-09-22",
       "tags": [
         "mountains",
+        "landscapes",
+        "california"
+      ]
+    },
+    {
+      "id": "15572317-71d3-4ab6-9a5f-851ddfad5c43",
+      "src": "/images/gallery/15572317-71d3-4ab6-9a5f-851ddfad5c43.jpg",
+      "width": 4548,
+      "height": 3518,
+      "name": "Pacific Valley Bluff, California",
+      "description": "",
+      "date": "2026-08-08",
+      "tags": [
+        "ocean",
+        "landscapes",
+        "california"
+      ]
+    },
+    {
+      "id": "3c1aa55f-2117-4890-b735-20351cd7318b",
+      "src": "/images/gallery/3c1aa55f-2117-4890-b735-20351cd7318b.jpg",
+      "width": 4775,
+      "height": 3351,
+      "name": "Skier, Colorado",
+      "description": "",
+      "date": "2026-04-04",
+      "tags": [
+        "snow",
+        "action",
+        "colorado"
+      ]
+    },
+    {
+      "id": "76d07bf5-8e07-4de5-bc03-92f2ce2ca74c",
+      "src": "/images/gallery/76d07bf5-8e07-4de5-bc03-92f2ce2ca74c.jpg",
+      "width": 3628,
+      "height": 2806,
+      "name": "Snowboarder, Colorado",
+      "description": "",
+      "date": "2026-01-02",
+      "tags": [
+        "snow",
+        "action",
+        "colorado"
+      ]
+    },
+    {
+      "id": "1dcce5ee-781c-402a-b176-66078a417459",
+      "src": "/images/gallery/1dcce5ee-781c-402a-b176-66078a417459.jpg",
+      "width": 3518,
+      "height": 4548,
+      "name": "Snowboarder, Colorado",
+      "description": "",
+      "date": "2026-02-14",
+      "tags": [
+        "snow",
+        "action",
+        "colorado"
+      ]
+    },
+    {
+      "id": "b9bc1350-c55d-410e-a7b1-fcae9dc2030f",
+      "src": "/images/gallery/b9bc1350-c55d-410e-a7b1-fcae9dc2030f.jpg",
+      "width": 4548,
+      "height": 3518,
+      "name": "Redwood Foliage, California",
+      "description": "",
+      "date": "2026-06-18",
+      "tags": [
+        "forests",
         "california"
       ]
     }
