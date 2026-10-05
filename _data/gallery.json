@@ -1,1 +1,18 @@
-{"version":1,"photos":[]}
+{
+  "version": 1,
+  "photos": [
+    {
+      "id": "c91d1d4e-b9a1-421a-8f5a-b769fabe8a3a",
+      "src": "/images/gallery/c91d1d4e-b9a1-421a-8f5a-b769fabe8a3a.jpg",
+      "width": 4666,
+      "height": 3429,
+      "name": "Medicine Bow Range",
+      "description": "Medicine Bow Range in the Snowy Range Pass in the fall.",
+      "date": "2026-10-04",
+      "tags": [
+        "landscapes",
+        "mountains"
+      ]
+    }
+  ]
+}
