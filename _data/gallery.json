@@ -6,12 +6,52 @@
       "src": "/images/gallery/c91d1d4e-b9a1-421a-8f5a-b769fabe8a3a.jpg",
       "width": 4666,
       "height": 3429,
-      "name": "Medicine Bow Range",
+      "name": "Medicine Bow Range, Wyoming",
       "description": "Medicine Bow Range in the Snowy Range Pass in the fall.",
       "date": "2026-10-04",
       "tags": [
         "landscapes",
-        "mountains"
+        "mountains",
+        "wyoming"
+      ]
+    },
+    {
+      "id": "8fd95518-6f1b-482a-8dcc-f21ab9247c8e",
+      "src": "/images/gallery/8fd95518-6f1b-482a-8dcc-f21ab9247c8e.jpg",
+      "width": 3517,
+      "height": 4548,
+      "name": "Mt.Princeton, Colorado",
+      "description": "Clouds form above Mt.Princeton (14,1496ft) as a hiking descends.",
+      "date": "2026-09-27",
+      "tags": [
+        "mountains",
+        "colorado"
+      ]
+    },
+    {
+      "id": "18766043-9615-43c3-9f4b-daaa4a1baae6",
+      "src": "/images/gallery/18766043-9615-43c3-9f4b-daaa4a1baae6.jpg",
+      "width": 4548,
+      "height": 3517,
+      "name": "Base of Mt.Whitney, California",
+      "description": "A moment of still before summitting Mt.Whitney(14,495ft) the next morning.",
+      "date": "2026-09-21",
+      "tags": [
+        "mountains",
+        "california"
+      ]
+    },
+    {
+      "id": "a122a11f-e598-4760-a534-dff3cb56d837",
+      "src": "/images/gallery/a122a11f-e598-4760-a534-dff3cb56d837.jpg",
+      "width": 3517,
+      "height": 4548,
+      "name": "Mt.Muir, California",
+      "description": "The spire of Mt.Muir (14,018ft) reaches above as a hiker descends from Mt.Whitney.",
+      "date": "2026-09-22",
+      "tags": [
+        "mountains",
+        "california"
       ]
     }
   ]
