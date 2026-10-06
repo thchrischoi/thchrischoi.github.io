@@ -6,7 +6,7 @@
       "src": "/images/gallery/db39259f-59fc-411f-be05-d3717eeab4c0.jpg",
       "width": 4548,
       "height": 3517,
-      "name": "Ice Skaters on Dream Lake, Colorado",
+      "name": "Ice Skaters on Dream Lake, Rocky Mountain National Park",
       "description": "Ice skaters on Dream Lake at Rocky Mountain National Park on Christmas Eve.",
       "date": "2025-12-24",
       "tags": [
@@ -48,7 +48,7 @@
       "src": "/images/gallery/61cd3c72-dfb6-4a04-917e-e3c1191e5bc4.jpg",
       "width": 3378,
       "height": 4368,
-      "name": "Skiers, Colorado",
+      "name": "Skiers, Cameron Pass",
       "description": "Backcountry skiers reaching the top of Taliban Trees Line in the Enchanted Forest zone at Cameron Pass",
       "date": "2026-01-24",
       "tags": [
@@ -91,7 +91,7 @@
       "src": "/images/gallery/15572317-71d3-4ab6-9a5f-851ddfad5c43.jpg",
       "width": 4548,
       "height": 3518,
-      "name": "Pacific Valley Bluff, California",
+      "name": "Pacific Valley Bluff, Big Sur",
       "description": "",
       "date": "2026-08-08",
       "tags": [
@@ -105,7 +105,7 @@
       "src": "/images/gallery/3c1aa55f-2117-4890-b735-20351cd7318b.jpg",
       "width": 4775,
       "height": 3351,
-      "name": "Skier, Colorado",
+      "name": "Skier, Cameron Pass",
       "description": "",
       "date": "2026-04-04",
       "tags": [
@@ -119,7 +119,7 @@
       "src": "/images/gallery/76d07bf5-8e07-4de5-bc03-92f2ce2ca74c.jpg",
       "width": 3628,
       "height": 2806,
-      "name": "Snowboarder, Colorado",
+      "name": "Snowboarder, Cameron Pass",
       "description": "",
       "date": "2026-01-02",
       "tags": [
@@ -133,7 +133,7 @@
       "src": "/images/gallery/1dcce5ee-781c-402a-b176-66078a417459.jpg",
       "width": 3518,
       "height": 4548,
-      "name": "Snowboarder, Colorado",
+      "name": "Snowboarder, Cameron Pass",
       "description": "",
       "date": "2026-02-14",
       "tags": [
@@ -147,7 +147,7 @@
       "src": "/images/gallery/b9bc1350-c55d-410e-a7b1-fcae9dc2030f.jpg",
       "width": 4548,
       "height": 3518,
-      "name": "Redwood Foliage, California",
+      "name": "Redwood Foliage, Santa Cruz",
       "description": "",
       "date": "2026-06-18",
       "tags": [
@@ -160,7 +160,7 @@
       "src": "/images/gallery/5043b50a-ffc4-4a89-887a-2c70de67458d.jpg",
       "width": 3517,
       "height": 4548,
-      "name": "Breaktime, Colorado",
+      "name": "Breaktime, Cameron Pass",
       "description": "Backcountry skier takes a break in the snow beneath the Nokhu Crags in  Cameron Pass, Colorado.",
       "date": "2026-02-21",
       "tags": [
@@ -174,7 +174,7 @@
       "src": "/images/gallery/d94ecfc2-ebd7-4ad0-81f8-1bbebf23b88f.jpg",
       "width": 3139,
       "height": 4059,
-      "name": "Moonrise, Colorado",
+      "name": "Moonrise, Cameron Pass",
       "description": "Splitboarder at the top of South Diamond at Cameron Pass, Colorado.",
       "date": "2026-05-09",
       "tags": [
@@ -188,13 +188,27 @@
       "src": "/images/gallery/23c183bf-b25a-4d62-a0a8-1aad167c3cd1.jpg",
       "width": 4978,
       "height": 3018,
-      "name": "Determining the Line, Colorado",
+      "name": "Determining the Line, Cameron Pass",
       "description": "Splitboarder contemplates which line to drop down on atop South Diamond at Cameron Pass, Colorado.",
       "date": "2026-05-09",
       "tags": [
         "snow",
         "action",
         "colorado"
+      ]
+    },
+    {
+      "id": "9efb2225-d1ab-4ec7-aa3d-69497902cd8f",
+      "src": "/images/gallery/9efb2225-d1ab-4ec7-aa3d-69497902cd8f.jpg",
+      "width": 4011,
+      "height": 3102,
+      "name": "Elysian, Big Sur",
+      "description": "",
+      "date": "2026-08-08",
+      "tags": [
+        "landscapes",
+        "california",
+        "ocean"
       ]
     }
   ]
