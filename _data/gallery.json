@@ -210,6 +210,91 @@
         "california",
         "ocean"
       ]
+    },
+    {
+      "id": "4cbad4e3-d2cc-4505-b8ff-f8ccaa560cd8",
+      "src": "/images/gallery/4cbad4e3-d2cc-4505-b8ff-f8ccaa560cd8.jpg",
+      "width": 4582,
+      "height": 3491,
+      "name": "Basking Seals, Monterey",
+      "description": "",
+      "date": "2026-05-30",
+      "tags": [
+        "landscapes",
+        "ocean",
+        "wildlife",
+        "california"
+      ]
+    },
+    {
+      "id": "fbac72b6-6b2e-4a24-a9d4-10e108949dae",
+      "src": "/images/gallery/fbac72b6-6b2e-4a24-a9d4-10e108949dae.jpg",
+      "width": 4548,
+      "height": 3518,
+      "name": "Plaskett Ridge, Big Sur",
+      "description": "",
+      "date": "2026-06-27",
+      "tags": [
+        "landscapes",
+        "ocean",
+        "california"
+      ]
+    },
+    {
+      "id": "a4eb47d7-1dc4-48ca-bab7-33fa92f9a488",
+      "src": "/images/gallery/a4eb47d7-1dc4-48ca-bab7-33fa92f9a488.jpg",
+      "width": 4548,
+      "height": 3518,
+      "name": "McWay Falls, Big Sur",
+      "description": "",
+      "date": "2026-06-27",
+      "tags": [
+        "landscapes",
+        "ocean",
+        "california"
+      ]
+    },
+    {
+      "id": "aa457dc8-b293-48b5-a007-ccb8e7e3cf52",
+      "src": "/images/gallery/aa457dc8-b293-48b5-a007-ccb8e7e3cf52.jpg",
+      "width": 4686,
+      "height": 3104,
+      "name": "Tunnel View, Yosemite",
+      "description": "",
+      "date": "",
+      "tags": [
+        "landscapes",
+        "mountains",
+        "california"
+      ]
+    },
+    {
+      "id": "c5fafe1e-32bc-47b6-866f-7bb420aaa89e",
+      "src": "/images/gallery/c5fafe1e-32bc-47b6-866f-7bb420aaa89e.jpg",
+      "width": 4548,
+      "height": 3518,
+      "name": "California Red-Legged Frog, Soquel",
+      "description": "",
+      "date": "2026-08-12",
+      "tags": [
+        "wildlife",
+        "forests",
+        "california"
+      ]
+    },
+    {
+      "id": "8346248c-cd64-4786-8042-ea00480ca7dc",
+      "src": "/images/gallery/8346248c-cd64-4786-8042-ea00480ca7dc.jpg",
+      "width": 4552,
+      "height": 3520,
+      "name": "Giant Pacific Salamander, Soquel",
+      "description": "",
+      "date": "2026-08-12",
+      "tags": [
+        "wildlife",
+        "forests",
+        "california"
+      ]
     }
   ]
 }
