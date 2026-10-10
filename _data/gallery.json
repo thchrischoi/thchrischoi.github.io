@@ -87,6 +87,20 @@
       ]
     },
     {
+      "id": "8c248da4-3360-4446-942f-20bb63485654",
+      "src": "/images/gallery/8c248da4-3360-4446-942f-20bb63485654.jpg",
+      "width": 4032,
+      "height": 3024,
+      "name": "Alpine Start, California",
+      "description": "",
+      "date": "2026-09-21",
+      "tags": [
+        "mountains",
+        "landscapes",
+        "california"
+      ]
+    },
+    {
       "id": "15572317-71d3-4ab6-9a5f-851ddfad5c43",
       "src": "/images/gallery/15572317-71d3-4ab6-9a5f-851ddfad5c43.jpg",
       "width": 4548,
@@ -156,6 +170,20 @@
       ]
     },
     {
+      "id": "8346248c-cd64-4786-8042-ea00480ca7dc",
+      "src": "/images/gallery/8346248c-cd64-4786-8042-ea00480ca7dc.jpg",
+      "width": 4552,
+      "height": 3520,
+      "name": "Giant Pacific Salamander, Soquel",
+      "description": "",
+      "date": "2026-08-12",
+      "tags": [
+        "wildlife",
+        "forests",
+        "california"
+      ]
+    },
+    {
       "id": "5043b50a-ffc4-4a89-887a-2c70de67458d",
       "src": "/images/gallery/5043b50a-ffc4-4a89-887a-2c70de67458d.jpg",
       "width": 3517,
@@ -207,6 +235,7 @@
       "date": "2026-08-08",
       "tags": [
         "landscapes",
+        "wildlife",
         "california",
         "ocean"
       ]
@@ -274,20 +303,6 @@
       "width": 4548,
       "height": 3518,
       "name": "California Red-Legged Frog, Soquel",
-      "description": "",
-      "date": "2026-08-12",
-      "tags": [
-        "wildlife",
-        "forests",
-        "california"
-      ]
-    },
-    {
-      "id": "8346248c-cd64-4786-8042-ea00480ca7dc",
-      "src": "/images/gallery/8346248c-cd64-4786-8042-ea00480ca7dc.jpg",
-      "width": 4552,
-      "height": 3520,
-      "name": "Giant Pacific Salamander, Soquel",
       "description": "",
       "date": "2026-08-12",
       "tags": [
