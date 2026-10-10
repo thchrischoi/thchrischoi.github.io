@@ -87,20 +87,6 @@
       ]
     },
     {
-      "id": "8c248da4-3360-4446-942f-20bb63485654",
-      "src": "/images/gallery/8c248da4-3360-4446-942f-20bb63485654.jpg",
-      "width": 4032,
-      "height": 3024,
-      "name": "Alpine Start, California",
-      "description": "",
-      "date": "2026-09-21",
-      "tags": [
-        "mountains",
-        "landscapes",
-        "california"
-      ]
-    },
-    {
       "id": "15572317-71d3-4ab6-9a5f-851ddfad5c43",
       "src": "/images/gallery/15572317-71d3-4ab6-9a5f-851ddfad5c43.jpg",
       "width": 4548,
@@ -180,6 +166,20 @@
       "tags": [
         "wildlife",
         "forests",
+        "california"
+      ]
+    },
+    {
+      "id": "8c248da4-3360-4446-942f-20bb63485654",
+      "src": "/images/gallery/8c248da4-3360-4446-942f-20bb63485654.jpg",
+      "width": 4032,
+      "height": 3024,
+      "name": "Alpine Start, California",
+      "description": "",
+      "date": "2026-09-21",
+      "tags": [
+        "mountains",
+        "landscapes",
         "california"
       ]
     },
@@ -308,6 +308,91 @@
       "tags": [
         "wildlife",
         "forests",
+        "california"
+      ]
+    },
+    {
+      "id": "ad87ceb9-72eb-42a0-a4a4-1f8aa2e3b8fb",
+      "src": "/images/gallery/ad87ceb9-72eb-42a0-a4a4-1f8aa2e3b8fb.jpg",
+      "width": 3519,
+      "height": 4551,
+      "name": "Skier, Enchanted Forest",
+      "description": "Enchanted Forest",
+      "date": "2026-01-24",
+      "tags": [
+        "sports",
+        "snow",
+        "colorado"
+      ]
+    },
+    {
+      "id": "7df27e6f-7026-465d-a445-5f45b5de3b3f",
+      "src": "/images/gallery/7df27e6f-7026-465d-a445-5f45b5de3b3f.jpg",
+      "width": 3540,
+      "height": 4577,
+      "name": "Ice Climber, Rocky Mountain National Park",
+      "description": "Wild Basin, Rocky Mountain National Park",
+      "date": "2026-02-15",
+      "tags": [
+        "sports",
+        "snow",
+        "colorado"
+      ]
+    },
+    {
+      "id": "37c38626-1549-429d-baab-7c81f54728ae",
+      "src": "/images/gallery/37c38626-1549-429d-baab-7c81f54728ae.jpg",
+      "width": 3517,
+      "height": 4548,
+      "name": "Hut Trippers, Colorado",
+      "description": "Jackal Hut",
+      "date": "2026-02-27",
+      "tags": [
+        "snow",
+        "mountains",
+        "colorado"
+      ]
+    },
+    {
+      "id": "2a6ab44d-2fe4-403b-8c2f-eb0e3ad98831",
+      "src": "/images/gallery/2a6ab44d-2fe4-403b-8c2f-eb0e3ad98831.jpg",
+      "width": 4607,
+      "height": 3563,
+      "name": "Jackal Hut, Colorado",
+      "description": "",
+      "date": "2026-02-27",
+      "tags": [
+        "landscapes",
+        "snow",
+        "mountains",
+        "colorado"
+      ]
+    },
+    {
+      "id": "d46c104c-3e88-4317-98af-4a59d9de55ae",
+      "src": "/images/gallery/d46c104c-3e88-4317-98af-4a59d9de55ae.jpg",
+      "width": 3472,
+      "height": 4640,
+      "name": "Dirtbiker, Denver",
+      "description": "",
+      "date": "",
+      "tags": [
+        "sports",
+        "colorado"
+      ]
+    },
+    {
+      "id": "62e0fec6-0c55-4f5a-bc96-81e0eb27ec96",
+      "src": "/images/gallery/62e0fec6-0c55-4f5a-bc96-81e0eb27ec96.jpg",
+      "width": 3517,
+      "height": 4548,
+      "name": "Mt.Whitney Deer, California",
+      "description": "",
+      "date": "2026-09-21",
+      "tags": [
+        "landscapes",
+        "mountains",
+        "wildlife",
         "california"
       ]
     }
