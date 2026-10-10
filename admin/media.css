@@ -6,3 +6,6 @@
 @media(min-width:1280px){.page__content .adventure-row{width:calc(100% + 300px)}}
 .wide .page__content .adventure-row,.page__content:has(.sidebar__right) .adventure-row{width:100%}
 #preview .adventure-row img{max-height:none}button.adventure-photo{appearance:none;border:0;padding:0;margin:0;background:transparent;color:inherit;font:inherit;text-align:inherit;max-width:100%;border-radius:0}button.adventure-photo:focus-visible{outline:3px solid #245947;outline-offset:4px}.adventure-photo img,.adventure-lightbox img{-webkit-user-drag:none}
+
+/* Theme figures use flex layout; maps need an explicit full row. */
+.adventure-map{width:100%;flex:0 0 100%;min-width:0}

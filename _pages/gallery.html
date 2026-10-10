@@ -12,7 +12,9 @@ gallery: true
 </div>
 {% assign photos = site.data.gallery.photos %}
 {% if photos.size > 0 %}
-<p class="gallery-count">{{ photos.size }} photographs · Select a photo to explore</p>
+<details class="gallery-filters" id="gallery-filters" hidden><summary>Filter by tags <span id="filter-selection"></span></summary><div class="gallery-filter-panel"><p>Show photos matching any selected tag.</p><div id="gallery-tag-options"></div><button type="button" id="clear-gallery-filters">Clear filters</button></div></details>
+<p id="gallery-no-results" hidden>No photos match these tags.</p>
+<p class="gallery-count" id="gallery-result-count" aria-live="polite">{{ photos.size }} photographs · Select a photo to explore</p>
 <div class="photo-grid" id="photo-grid">
 {% for photo in photos %}
 <button type="button" class="gallery-tile" aria-label="View {{ photo.name | escape }}" data-photo="{{ photo | jsonify | escape }}">
