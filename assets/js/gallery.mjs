@@ -1,4 +1,4 @@
-export function matchesTags(photo,selected){return !selected.size||(photo.tags||[]).some(tag=>selected.has(tag));}
+export function matchesTags(photo,selected){return [...selected].every(tag=>(photo.tags||[]).includes(tag));}
 /* Justified rows preserve each photo's native proportions. */
 export function justifiedLayout(photos,width,gap=10,target=250){
  if(width<=0)return [];
