@@ -59,6 +59,20 @@
       ]
     },
     {
+      "id": "72dbce8f-1a9a-4129-ad5a-792b521872a6",
+      "src": "/images/gallery/72dbce8f-1a9a-4129-ad5a-792b521872a6.jpg",
+      "width": 4548,
+      "height": 3518,
+      "name": "Hagues Peak, Rocky Mountain National Park",
+      "description": "Hauges Peak (13,573ft)",
+      "date": "2026-10-11",
+      "tags": [
+        "mountains",
+        "landscapes",
+        "colorado"
+      ]
+    },
+    {
       "id": "18766043-9615-43c3-9f4b-daaa4a1baae6",
       "src": "/images/gallery/18766043-9615-43c3-9f4b-daaa4a1baae6.jpg",
       "width": 4548,
@@ -129,6 +143,20 @@
       ]
     },
     {
+      "id": "8346248c-cd64-4786-8042-ea00480ca7dc",
+      "src": "/images/gallery/8346248c-cd64-4786-8042-ea00480ca7dc.jpg",
+      "width": 4552,
+      "height": 3520,
+      "name": "Giant Pacific Salamander, Soquel",
+      "description": "",
+      "date": "2026-08-12",
+      "tags": [
+        "wildlife",
+        "forests",
+        "california"
+      ]
+    },
+    {
       "id": "1dcce5ee-781c-402a-b176-66078a417459",
       "src": "/images/gallery/1dcce5ee-781c-402a-b176-66078a417459.jpg",
       "width": 3518,
@@ -151,20 +179,6 @@
       "description": "",
       "date": "2026-06-18",
       "tags": [
-        "forests",
-        "california"
-      ]
-    },
-    {
-      "id": "8346248c-cd64-4786-8042-ea00480ca7dc",
-      "src": "/images/gallery/8346248c-cd64-4786-8042-ea00480ca7dc.jpg",
-      "width": 4552,
-      "height": 3520,
-      "name": "Giant Pacific Salamander, Soquel",
-      "description": "",
-      "date": "2026-08-12",
-      "tags": [
-        "wildlife",
         "forests",
         "california"
       ]
@@ -281,6 +295,19 @@
         "landscapes",
         "ocean",
         "california"
+      ]
+    },
+    {
+      "id": "7c395d19-5c14-4e87-acdd-8892b0529cc1",
+      "src": "/images/gallery/7c395d19-5c14-4e87-acdd-8892b0529cc1.jpg",
+      "width": 4548,
+      "height": 3518,
+      "name": "Mt.Chiquita Rocks, Rocky Mountain National Park",
+      "description": "Ancient biotite schist and gneiss near the summit of Mt.Chiquita (13,075ft)",
+      "date": "2026-10-11",
+      "tags": [
+        "mountains",
+        "colorado"
       ]
     },
     {
