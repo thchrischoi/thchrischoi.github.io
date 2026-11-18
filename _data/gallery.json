@@ -436,6 +436,86 @@
         "mountains",
         "colorado"
       ]
+    },
+    {
+      "id": "467e1962-3df1-42a5-a994-98c094f6614c",
+      "src": "/images/gallery/467e1962-3df1-42a5-a994-98c094f6614c.jpg",
+      "width": 3517,
+      "height": 4548,
+      "name": "Canyoneering, Arches National Park",
+      "description": "",
+      "date": "2026-11-15",
+      "tags": [
+        "landscapes",
+        "desert",
+        "canyoneering",
+        "climbing",
+        "sports",
+        "utah"
+      ]
+    },
+    {
+      "id": "2aded103-119e-49cd-82dc-ab5bfc31edb2",
+      "src": "/images/gallery/2aded103-119e-49cd-82dc-ab5bfc31edb2.jpg",
+      "width": 3517,
+      "height": 4548,
+      "name": "Canyoneering, Arches National Park",
+      "description": "",
+      "date": "2026-11-15",
+      "tags": [
+        "desert",
+        "canyoneering",
+        "climbing",
+        "sports",
+        "utah"
+      ]
+    },
+    {
+      "id": "f082115f-7757-46ea-8cbc-906e6b6fcce2",
+      "src": "/images/gallery/f082115f-7757-46ea-8cbc-906e6b6fcce2.jpg",
+      "width": 3517,
+      "height": 4548,
+      "name": "Slot Canyon, Moab",
+      "description": "",
+      "date": "2026-11-13",
+      "tags": [
+        "desert",
+        "canyoneering",
+        "climbing",
+        "sports",
+        "utah"
+      ]
+    },
+    {
+      "id": "6aaa2bb1-ac18-438b-8316-bb808c8c4548",
+      "src": "/images/gallery/6aaa2bb1-ac18-438b-8316-bb808c8c4548.jpg",
+      "width": 4548,
+      "height": 3518,
+      "name": "Canyoneering, Moab",
+      "description": "",
+      "date": "2026-11-13",
+      "tags": [
+        "desert",
+        "canyoneering",
+        "climbing",
+        "sports",
+        "utah"
+      ]
+    },
+    {
+      "id": "bb354f4c-2cee-49ad-a951-aa771343f167",
+      "src": "/images/gallery/bb354f4c-2cee-49ad-a951-aa771343f167.jpg",
+      "width": 4548,
+      "height": 3517,
+      "name": "Windows to the World, Arches National Park",
+      "description": "",
+      "date": "2026-11-14",
+      "tags": [
+        "landscapes",
+        "climbing",
+        "sports",
+        "utah"
+      ]
     }
   ]
 }
